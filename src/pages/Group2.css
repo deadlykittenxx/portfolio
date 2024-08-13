@@ -1,0 +1,613 @@
+.group-2 .c {
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 700;
+  font-size: 1.1rem;
+  color: #000000;
+}
+.group-2 .frame-1 {
+  border-left: 0.1rem solid #000000;
+  border-top: 0.1rem solid #000000;
+  border-right: 0.1rem solid #000000;
+  background: #FFFFFF;
+  display: flex;
+  align-self: flex-start;
+  padding: 1.1rem 0rem 1.1rem 0;
+  width: 3.8rem;
+  box-sizing: border-box;
+}
+.group-2 .i {
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 700;
+  font-size: 1.1rem;
+  color: #000000;
+}
+.group-2 .frame-2 {
+  border-left: 0.1rem solid #000000;
+  border-top: 0.1rem solid #000000;
+  border-right: 0.1rem solid #000000;
+  background: #FFFFFF;
+  display: flex;
+  padding: 1.1rem 0rem 1.1rem 0;
+  width: 3.8rem;
+  box-sizing: border-box;
+}
+.group-2 .r-3 {
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 700;
+  font-size: 1.1rem;
+  color: #000000;
+}
+.group-2 .frame-3 {
+  border-left: 0.1rem solid #000000;
+  border-top: 0.1rem solid #000000;
+  border-right: 0.1rem solid #000000;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  padding: 1.1rem 0 1.1rem 0rem;
+  width: 3.8rem;
+  box-sizing: border-box;
+}
+.group-2 .container-4 {
+  margin-bottom: 3.7rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 3.8rem;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.group-2 .s {
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 700;
+  font-size: 1.1rem;
+  color: #000000;
+}
+.group-2 .frame-19 {
+  border-left: 0.1rem solid #000000;
+  border-top: 0.1rem solid #000000;
+  border-right: 0.1rem solid #000000;
+  background: #FFFFFF;
+  display: flex;
+  padding: 1.1rem 0rem 1.1rem 0;
+  width: 3.8rem;
+  box-sizing: border-box;
+}
+.group-2 .t {
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 700;
+  font-size: 1.1rem;
+  color: #000000;
+}
+.group-2 .frame-18 {
+  border-left: 0.1rem solid #000000;
+  border-top: 0.1rem solid #000000;
+  border-right: 0.1rem solid #000000;
+  background: #FFFFFF;
+  display: flex;
+  padding: 1.1rem 0rem 1.1rem 0;
+  width: 3.8rem;
+  box-sizing: border-box;
+}
+.group-2 .container-3 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 3.8rem;
+  box-sizing: border-box;
+}
+.group-2 .m {
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 700;
+  font-size: 1.1rem;
+  color: #000000;
+}
+.group-2 .frame-26 {
+  border-top: 0.1rem solid #000000;
+  border-right: 0.1rem solid #000000;
+  border-bottom: 0.1rem solid #000000;
+  background: #FFFFFF;
+  margin-bottom: 3.8rem;
+  display: flex;
+  padding: 1.1rem 0 1.1rem 0rem;
+  width: 3.8rem;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.group-2 .a-1 {
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 700;
+  font-size: 1.1rem;
+  color: #000000;
+}
+.group-2 .frame-27 {
+  border-top: 0.1rem solid #000000;
+  border-right: 0.1rem solid #000000;
+  border-bottom: 0.1rem solid #000000;
+  background: #FFFFFF;
+  margin-bottom: 3.8rem;
+  display: flex;
+  padding: 1.1rem 0 1.1rem 0rem;
+  width: 3.8rem;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.group-2 .r-1 {
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 700;
+  font-size: 1.1rem;
+  color: #000000;
+}
+.group-2 .frame-28 {
+  border-top: 0.1rem solid #000000;
+  border-right: 0.1rem solid #000000;
+  border-bottom: 0.1rem solid #000000;
+  background: #FFFFFF;
+  margin-bottom: 3.8rem;
+  display: flex;
+  padding: 1.1rem 0 1.1rem 0rem;
+  width: 3.8rem;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.group-2 .t-3 {
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 700;
+  font-size: 1.1rem;
+  color: #000000;
+}
+.group-2 .frame-29 {
+  border-top: 0.1rem solid #000000;
+  border-right: 0.1rem solid #000000;
+  border-bottom: 0.1rem solid #000000;
+  background: #FFFFFF;
+  margin-bottom: 3.8rem;
+  display: flex;
+  padding: 1.1rem 0 1.1rem 0rem;
+  width: 3.8rem;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.group-2 .p {
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 700;
+  font-size: 1.1rem;
+  color: #000000;
+}
+.group-2 .frame-30 {
+  border-top: 0.1rem solid #000000;
+  border-right: 0.1rem solid #000000;
+  border-bottom: 0.1rem solid #000000;
+  background: #FFFFFF;
+  margin-bottom: 3.8rem;
+  display: flex;
+  padding: 1.1rem 0 1.1rem 0rem;
+  width: 3.8rem;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.group-2 .o {
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 700;
+  font-size: 1.1rem;
+  color: #000000;
+}
+.group-2 .frame-31 {
+  border-top: 0.1rem solid #000000;
+  border-right: 0.1rem solid #000000;
+  border-bottom: 0.1rem solid #000000;
+  background: #FFFFFF;
+  margin-bottom: 3.8rem;
+  display: flex;
+  padding: 1.1rem 0rem 1.1rem 0;
+  width: 3.8rem;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.group-2 .r-2 {
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 700;
+  font-size: 1.1rem;
+  color: #000000;
+}
+.group-2 .frame-32 {
+  border-top: 0.1rem solid #000000;
+  border-right: 0.1rem solid #000000;
+  border-bottom: 0.1rem solid #000000;
+  background: #FFFFFF;
+  margin-bottom: 3.8rem;
+  display: flex;
+  padding: 1.1rem 0 1.1rem 0rem;
+  width: 3.8rem;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.group-2 .t-4 {
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 700;
+  font-size: 1.1rem;
+  color: #000000;
+}
+.group-2 .frame-33 {
+  border-top: 0.1rem solid #000000;
+  border-right: 0.1rem solid #000000;
+  border-bottom: 0.1rem solid #000000;
+  background: #FFFFFF;
+  margin-bottom: 3.8rem;
+  display: flex;
+  padding: 1.1rem 0 1.1rem 0rem;
+  width: 3.8rem;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.group-2 .container {
+  margin-top: 3.7rem;
+  display: flex;
+  flex-direction: row;
+  width: 33.8rem;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.group-2 .container-5 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 48.8rem;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.group-2 .c-1 {
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 700;
+  font-size: 1.1rem;
+  color: #000000;
+}
+.group-2 .frame-4 {
+  border-left: 0.1rem solid #000000;
+  border-top: 0.1rem solid #000000;
+  border-right: 0.1rem solid #000000;
+  background: #FFFFFF;
+  position: absolute;
+  left: 0rem;
+  bottom: 0rem;
+  display: flex;
+  padding: 1.1rem 0rem 1.1rem 0;
+  width: 3.8rem;
+  box-sizing: border-box;
+}
+.group-2 .container-6 {
+  position: relative;
+  display: flex;
+  width: 48.8rem;
+  box-sizing: border-box;
+}
+.group-2 .l {
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 700;
+  font-size: 1.1rem;
+  color: #000000;
+}
+.group-2 .frame-5 {
+  border-left: 0.1rem solid #000000;
+  border-top: 0.1rem solid #000000;
+  border-right: 0.1rem solid #000000;
+  background: #FFFFFF;
+  display: flex;
+  padding: 1.1rem 0 1.1rem 0rem;
+  width: 3.8rem;
+  box-sizing: border-box;
+}
+.group-2 .e-4 {
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 700;
+  font-size: 1.1rem;
+  color: #000000;
+}
+.group-2 .frame-17 {
+  border-left: 0.1rem solid #000000;
+  border-top: 0.1rem solid #000000;
+  border-right: 0.1rem solid #000000;
+  background: #FFFFFF;
+  display: flex;
+  padding: 1.1rem 0rem 1.1rem 0;
+  width: 3.8rem;
+  box-sizing: border-box;
+}
+.group-2 .container-1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 18.8rem;
+  box-sizing: border-box;
+}
+.group-2 .e-1 {
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 700;
+  font-size: 1.1rem;
+  color: #000000;
+}
+.group-2 .frame-6 {
+  border: 0.1rem solid #000000;
+  background: #FFFFFF;
+  display: flex;
+  padding: 1.1rem 0rem 1.1rem 0;
+  width: 3.8rem;
+  box-sizing: border-box;
+}
+.group-2 .d {
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 700;
+  font-size: 1.1rem;
+  color: #000000;
+}
+.group-2 .frame-7 {
+  border-top: 0.1rem solid #000000;
+  border-right: 0.1rem solid #000000;
+  border-bottom: 0.1rem solid #000000;
+  background: #FFFFFF;
+  display: flex;
+  padding: 1.1rem 0 1.1rem 0rem;
+  width: 3.8rem;
+  box-sizing: border-box;
+}
+.group-2 .u {
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 700;
+  font-size: 1.1rem;
+  color: #000000;
+}
+.group-2 .frame-8 {
+  border-top: 0.1rem solid #000000;
+  border-right: 0.1rem solid #000000;
+  border-bottom: 0.1rem solid #000000;
+  background: #FFFFFF;
+  display: flex;
+  padding: 1.1rem 0rem 1.1rem 0;
+  width: 3.8rem;
+  box-sizing: border-box;
+}
+.group-2 .s-2 {
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 700;
+  font-size: 1.1rem;
+  color: #000000;
+}
+.group-2 .frame-9 {
+  border-top: 0.1rem solid #000000;
+  border-right: 0.1rem solid #000000;
+  border-bottom: 0.1rem solid #000000;
+  background: #FFFFFF;
+  display: flex;
+  padding: 1.1rem 0 1.1rem 0rem;
+  width: 3.8rem;
+  box-sizing: border-box;
+}
+.group-2 .p-1 {
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 700;
+  font-size: 1.1rem;
+  color: #000000;
+}
+.group-2 .frame-16 {
+  border-top: 0.1rem solid #000000;
+  border-right: 0.1rem solid #000000;
+  border-bottom: 0.1rem solid #000000;
+  background: #FFFFFF;
+  display: flex;
+  padding: 1.1rem 0 1.1rem 0rem;
+  width: 3.8rem;
+  box-sizing: border-box;
+}
+.group-2 .h {
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 700;
+  font-size: 1.1rem;
+  color: #000000;
+}
+.group-2 .frame-11 {
+  border-top: 0.1rem solid #000000;
+  border-right: 0.1rem solid #000000;
+  border-bottom: 0.1rem solid #000000;
+  background: #FFFFFF;
+  display: flex;
+  padding: 1.1rem 0 1.1rem 0rem;
+  width: 3.8rem;
+  box-sizing: border-box;
+}
+.group-2 .e-2 {
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 700;
+  font-size: 1.1rem;
+  color: #000000;
+}
+.group-2 .frame-12 {
+  border-top: 0.1rem solid #000000;
+  border-right: 0.1rem solid #000000;
+  border-bottom: 0.1rem solid #000000;
+  background: #FFFFFF;
+  display: flex;
+  padding: 1.1rem 0 1.1rem 0rem;
+  width: 3.8rem;
+  box-sizing: border-box;
+}
+.group-2 .r-4 {
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 700;
+  font-size: 1.1rem;
+  color: #000000;
+}
+.group-2 .frame-13 {
+  border-top: 0.1rem solid #000000;
+  border-right: 0.1rem solid #000000;
+  border-bottom: 0.1rem solid #000000;
+  background: #FFFFFF;
+  display: flex;
+  padding: 1.1rem 0 1.1rem 0rem;
+  width: 3.8rem;
+  box-sizing: border-box;
+}
+.group-2 .e-3 {
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 700;
+  font-size: 1.1rem;
+  color: #000000;
+}
+.group-2 .frame-14 {
+  border-top: 0.1rem solid #000000;
+  border-right: 0.1rem solid #000000;
+  border-bottom: 0.1rem solid #000000;
+  background: #FFFFFF;
+  display: flex;
+  padding: 1.1rem 0 1.1rem 0rem;
+  width: 3.8rem;
+  box-sizing: border-box;
+}
+.group-2 .container-2 {
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: 33.8rem;
+  box-sizing: border-box;
+}
+.group-2 .s-1 {
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 700;
+  font-size: 1.1rem;
+  color: #000000;
+}
+.group-2 .frame-20 {
+  border-left: 0.1rem solid #000000;
+  border-right: 0.1rem solid #000000;
+  border-bottom: 0.1rem solid #000000;
+  background: #FFFFFF;
+  margin-right: 15rem;
+  display: flex;
+  padding: 1.1rem 0rem 1.1rem 0;
+  width: 3.8rem;
+  box-sizing: border-box;
+}
+.group-2 .t-1 {
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 700;
+  font-size: 1.1rem;
+  color: #000000;
+}
+.group-2 .frame-21 {
+  border-left: 0.1rem solid #000000;
+  border-right: 0.1rem solid #000000;
+  border-bottom: 0.1rem solid #000000;
+  background: #FFFFFF;
+  margin-right: 15rem;
+  display: flex;
+  padding: 1.1rem 0rem 1.1rem 0;
+  width: 3.8rem;
+  box-sizing: border-box;
+}
+.group-2 .r {
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 700;
+  font-size: 1.1rem;
+  color: #000000;
+}
+.group-2 .frame-22 {
+  border-left: 0.1rem solid #000000;
+  border-right: 0.1rem solid #000000;
+  border-bottom: 0.1rem solid #000000;
+  background: #FFFFFF;
+  margin-right: 15rem;
+  display: flex;
+  padding: 1.1rem 0 1.1rem 0rem;
+  width: 3.8rem;
+  box-sizing: border-box;
+}
+.group-2 .a {
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 700;
+  font-size: 1.1rem;
+  color: #000000;
+}
+.group-2 .frame-23 {
+  border-left: 0.1rem solid #000000;
+  border-right: 0.1rem solid #000000;
+  border-bottom: 0.1rem solid #000000;
+  background: #FFFFFF;
+  margin-right: 15rem;
+  display: flex;
+  padding: 1.1rem 0rem 1.1rem 0;
+  width: 3.8rem;
+  box-sizing: border-box;
+}
+.group-2 .t-2 {
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 700;
+  font-size: 1.1rem;
+  color: #000000;
+}
+.group-2 .frame-24 {
+  border-left: 0.1rem solid #000000;
+  border-right: 0.1rem solid #000000;
+  border-bottom: 0.1rem solid #000000;
+  background: #FFFFFF;
+  margin-right: 15rem;
+  display: flex;
+  padding: 1.1rem 0rem 1.1rem 0;
+  width: 3.8rem;
+  box-sizing: border-box;
+}
+.group-2 .e {
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 700;
+  font-size: 1.1rem;
+  color: #000000;
+}
+.group-2 .frame-25 {
+  border-left: 0.1rem solid #000000;
+  border-right: 0.1rem solid #000000;
+  border-bottom: 0.1rem solid #000000;
+  background: #FFFFFF;
+  margin-right: 15rem;
+  display: flex;
+  padding: 1.1rem 0rem 1.1rem 0;
+  width: 3.8rem;
+  box-sizing: border-box;
+}
+.group-2 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 48.8rem;
+  box-sizing: border-box;
+}

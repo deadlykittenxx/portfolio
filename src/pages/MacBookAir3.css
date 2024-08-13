@@ -1,0 +1,684 @@
+.mac-book-air-3 .line-4 {
+  background: #000000;
+  position: absolute;
+  left: 0rem;
+  top: 8.1rem;
+  right: 0rem;
+  height: 0rem;
+}
+.yeajin-ahn-sub10 {
+  font-family: 'Pixel Script', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 2.3rem;
+  line-height: 1.333;
+}
+.yeajin-ahn-sub21 {
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 2.3rem;
+  line-height: 1.333;
+}
+.yeajin-ahn {
+  font-family: 'Pixel Script', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 2.3rem;
+  line-height: 1.333;
+}
+.mac-book-air-3 .yeajin-ahn {
+  margin: 0 2.5rem 1.3rem 2.5rem;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 300;
+  font-size: 2.3rem;
+  color: #000000;
+}
+.mac-book-air-3 .line-1 {
+  background: #000000;
+  margin-bottom: 0.4rem;
+  width: 80rem;
+  height: 0rem;
+}
+.mac-book-air-3 .index {
+  margin-right: 0.8rem;
+  width: 3.4rem;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 600;
+  font-size: 1.1rem;
+  color: #000000;
+}
+.mac-book-air-3 .resum {
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 600;
+  font-size: 1.1rem;
+  color: #000000;
+}
+.mac-book-air-3 .container-3 {
+  margin: 0 2.5rem 0.4rem 2.5rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-end;
+  width: 10.4rem;
+  box-sizing: border-box;
+}
+.mac-book-air-3 .category {
+  margin: 0.6rem 1.5rem 0.8rem 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'ChicagoFLF', 'Roboto Condensed';
+  font-weight: 500;
+  font-size: 0.8rem;
+  letter-spacing: 0rem;
+  color: #000000;
+}
+.mac-book-air-3 .school-project {
+  opacity: 0.9;
+  margin-right: 0.5rem;
+  width: 8.1rem;
+  overflow-wrap: break-word;
+  font-family: 'ChicagoFLF', 'Roboto Condensed';
+  font-weight: 500;
+  font-size: 0.8rem;
+  letter-spacing: 0rem;
+  color: var(--system-black, #000000);
+}
+.mac-book-air-3 .q {
+  opacity: 0.76;
+  mix-blend-mode: color-burn;
+  margin-right: 0.3rem;
+  overflow-wrap: break-word;
+  font-family: 'SF Pro Text', 'Roboto Condensed';
+  font-weight: 500;
+  font-size: 0.8rem;
+  letter-spacing: 0rem;
+  color: var(--label-color-light-secondary, rgba(60, 60, 67, 0.6));
+}
+.mac-book-air-3 .container {
+  overflow-wrap: break-word;
+  font-family: 'SF Pro Text', 'Roboto Condensed';
+  font-weight: 500;
+  font-size: 0.8rem;
+  letter-spacing: 0rem;
+  color: #000000;
+}
+.mac-book-air-3 .icon-dark-text-right-chevron {
+  display: flex;
+  box-sizing: border-box;
+}
+.mac-book-air-3 .right-side-options {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.mac-book-air-3 .content {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 0.6rem 1rem 0.7rem 1rem;
+  width: 12.8rem;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.mac-book-air-3 .menu-bar-menu-apple {
+  border: 0.1rem solid var(--system-black, #000000);
+  display: flex;
+  width: 12.8rem;
+  box-sizing: border-box;
+}
+.mac-book-air-3 .category-1 {
+  margin-right: 1.1rem;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.mac-book-air-3 .design-of-interactive-system-universit-paris-saclay {
+  margin: 0.6rem 0 0.8rem 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'ChicagoFLF', 'Roboto Condensed';
+  font-weight: 500;
+  font-size: 0.8rem;
+  letter-spacing: 0rem;
+  color: #000000;
+}
+.mac-book-air-3 .container-1 {
+  margin-bottom: 1rem;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.mac-book-air-3 .smart-port {
+  margin-bottom: 3.1rem;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Pixel Script', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 6.3rem;
+  color: #000000;
+}
+.mac-book-air-3 .atransportation-system-utilizing-smart-tickets-and-interactive-public-displays-to-support-in-station-navigation-by-combining-official-and-community-based-information {
+  margin-bottom: 3.9rem;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'ChicagoFLF', 'Roboto Condensed';
+  font-weight: 500;
+  font-size: 1rem;
+  color: #2DC79B;
+}
+.mac-book-air-3 .as-part-of-the-design-of-interactive-systems-course-at-universit-paris-saclay-we-spent-approximately-seven-weeks-developing-asystem-to-improve-google-maps-beginning-with-story-interviews-we-identified-issues-with-the-current-system-and-then-employed-various-strategies-such-as-breakdown-analysis-brainstorming-personas-design-space-future-scenarios-and-design-walkthroughs-to-create-anew-system-called-smart-port {
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 1rem;
+  color: #000000;
+}
+.as-part-of-the-design-of-interactive-systems-course-at-universit-paris-saclay-we-spent-approximately-seven-weeks-developing-asystem-to-improve-google-maps-beginning-with-story-interviews-we-identified-issues-with-the-current-system-and-then-employed-various-strategies-such-as-breakdown-analysis-brainstorming-personas-design-space-future-scenarios-and-design-walkthroughs-to-create-anew-system-called-smart-port-sub3 {
+  font-family: 'Nunito Sans';
+  font-weight: 700;
+  font-size: 1rem;
+  line-height: 1.333;
+}
+.mac-book-air-3 .container-7 {
+  background: linear-gradient(180deg, #C5EBE0, rgba(255, 255, 255, 0));
+  position: relative;
+  margin-bottom: 1.9rem;
+  display: flex;
+  flex-direction: column;
+  padding: 1.9rem 4.4rem 1.7rem 2.5rem;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.mac-book-air-3 .problem-statement {
+  margin: 0 2.5rem 0.8rem 2.5rem;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'ChicagoFLF', 'Roboto Condensed';
+  font-weight: 500;
+  font-size: 1.3rem;
+  letter-spacing: 0rem;
+  color: #000000;
+}
+.mac-book-air-3 .at-the-start-of-the-design-process-we-interviewed-8-people-and-identified-three-key-insights-about-how-they-use-google-maps-mainly-for-navigation-first-station-signage-wasnt-an-issue-because-google-maps-helped-even-when-users-were-in-different-cultural-environments-or-using-different-languages-however-google-maps-wasnt-always-effective-and-users-had-trouble-finding-the-right-train-my-story-interview-contributions-can-be-seen-here-after-analyzing-the-interviews-and-identifying-the-issues-we-focused-on-three-design-problems-lack-of-guidance-in-stations-unclear-train-route-information-inconvenience-caused-by-sudden-issues-like-line-closures {
+  margin: 0 3.3rem 3.3rem 2.5rem;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 1rem;
+  color: #000000;
+}
+.at-the-start-of-the-design-process-we-interviewed-8-people-and-identified-three-key-insights-about-how-they-use-google-maps-mainly-for-navigation-first-station-signage-wasnt-an-issue-because-google-maps-helped-even-when-users-were-in-different-cultural-environments-or-using-different-languages-however-google-maps-wasnt-always-effective-and-users-had-trouble-finding-the-right-train-my-story-interview-contributions-can-be-seen-here-after-analyzing-the-interviews-and-identifying-the-issues-we-focused-on-three-design-problems-lack-of-guidance-in-stations-unclear-train-route-information-inconvenience-caused-by-sudden-issues-like-line-closures-sub19 {
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 1rem;
+  text-decoration-line: underline;
+  line-height: 1.333;
+}
+.at-the-start-of-the-design-process-we-interviewed-8-people-and-identified-three-key-insights-about-how-they-use-google-maps-mainly-for-navigation-first-station-signage-wasnt-an-issue-because-google-maps-helped-even-when-users-were-in-different-cultural-environments-or-using-different-languages-however-google-maps-wasnt-always-effective-and-users-had-trouble-finding-the-right-train-my-story-interview-contributions-can-be-seen-here-after-analyzing-the-interviews-and-identifying-the-issues-we-focused-on-three-design-problems-lack-of-guidance-in-stations-unclear-train-route-information-inconvenience-caused-by-sudden-issues-like-line-closures-sub15 {
+  font-family: 'Noto Sans Mono CJK KR', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 1rem;
+  line-height: 1.333;
+}
+.at-the-start-of-the-design-process-we-interviewed-8-people-and-identified-three-key-insights-about-how-they-use-google-maps-mainly-for-navigation-first-station-signage-wasnt-an-issue-because-google-maps-helped-even-when-users-were-in-different-cultural-environments-or-using-different-languages-however-google-maps-wasnt-always-effective-and-users-had-trouble-finding-the-right-train-my-story-interview-contributions-can-be-seen-here-after-analyzing-the-interviews-and-identifying-the-issues-we-focused-on-three-design-problems-lack-of-guidance-in-stations-unclear-train-route-information-inconvenience-caused-by-sudden-issues-like-line-closures {
+  font-family: 'Nunito Sans';
+  font-weight: 800;
+  font-size: 1rem;
+  line-height: 1.333;
+}
+.mac-book-air-3 .user-profile {
+  margin: 0 2.5rem 0.8rem 2.5rem;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'ChicagoFLF', 'Roboto Condensed';
+  font-weight: 500;
+  font-size: 1.3rem;
+  letter-spacing: 0rem;
+  color: #000000;
+}
+.mac-book-air-3 .subway-newcomers-who-may-have-never-taken-the-transportation-before-or-who-may-be-visiting-the-city-for-the-first-time {
+  margin: 0 2.5rem 3.1rem 2.5rem;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 1rem;
+  color: #000000;
+}
+.mac-book-air-3 .persona {
+  margin: 0 2.5rem 0.8rem 2.5rem;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'ChicagoFLF', 'Roboto Condensed';
+  font-weight: 500;
+  font-size: 1.3rem;
+  letter-spacing: 0rem;
+  color: #000000;
+}
+.mac-book-air-3 .subway-newcomers-who-may-have-never-taken-the-transportation-before-or-who-may-be-visiting-the-city-for-the-first-time-1 {
+  margin: 0 2.5rem 1.3rem 2.5rem;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 1rem;
+  color: #000000;
+}
+.mac-book-air-3 .whats-app-image-20231219-at-1201031 {
+  background: url('assets/images/WhatsAppImage20231219At1201033.jpeg');
+  margin: 0 1.7rem 1.7rem 0;
+  width: 5.4rem;
+  height: 9.3rem;
+}
+.mac-book-air-3 .mi-colorblind-mi-is-23-years-old-guy-who-is-from-south-africa-he-studies-in-hci-track-in-paris-saclay-living-orsay {
+  margin: 1.3rem 2.4rem 2.8rem 0;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 600;
+  font-size: 1rem;
+  letter-spacing: 0rem;
+  color: #000000;
+}
+.mi-colorblind-mi-is-23-years-old-guy-who-is-from-south-africa-he-studies-in-hci-track-in-paris-saclay-living-orsay-sub9 {
+  font-family: 'Nunito Sans';
+  font-weight: 900;
+  font-size: 1rem;
+  letter-spacing: 0rem;
+  line-height: 1.333;
+}
+.mi-colorblind-mi-is-23-years-old-guy-who-is-from-south-africa-he-studies-in-hci-track-in-paris-saclay-living-orsay-sub8 {
+  font-family: 'Nunito Sans';
+  font-weight: 600;
+  font-size: 1rem;
+  letter-spacing: 0rem;
+  line-height: 1.333;
+}
+.mi-colorblind-mi-is-23-years-old-guy-who-is-from-south-africa-he-studies-in-hci-track-in-paris-saclay-living-orsay {
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 1rem;
+  letter-spacing: 0rem;
+  line-height: 1.333;
+}
+.mac-book-air-3 .whats-app-image-20231219-at-1201032 {
+  background: url('assets/images/WhatsAppImage20231219At1201033.jpeg');
+  margin: 0 2.3rem 1.7rem 0;
+  width: 6.4rem;
+  height: 9.3rem;
+}
+.mac-book-air-3 .ann-22-years-old-and-living-in-palaiseau-she-is-majored-in-art-for-two-years-she-loves-to-explore-new-place-in-paris-every-weekend {
+  margin: 1.3rem 3rem 0 0;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 600;
+  font-size: 1rem;
+  letter-spacing: 0rem;
+  color: #000000;
+}
+.ann-22-years-old-and-living-in-palaiseau-she-is-majored-in-art-for-two-years-she-loves-to-explore-new-place-in-paris-every-weekend-sub9 {
+  font-family: 'Nunito Sans';
+  font-weight: 900;
+  font-size: 1rem;
+  letter-spacing: 0rem;
+  line-height: 1.333;
+}
+.ann-22-years-old-and-living-in-palaiseau-she-is-majored-in-art-for-two-years-she-loves-to-explore-new-place-in-paris-every-weekend {
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 1rem;
+  letter-spacing: 0rem;
+  line-height: 1.333;
+}
+.mac-book-air-3 .whats-app-image-20231219-at-1201033 {
+  background: url('assets/images/WhatsAppImage20231219At1201033.jpeg');
+  margin: 0 2.3rem 1.7rem 0;
+  width: 5.3rem;
+  height: 9.3rem;
+}
+.mac-book-air-3 .jo-jo-is-23-years-old-and-she-studies-chemistry-she-is-aslow-walker-she-often-use-navigaion-application-when-she-explores {
+  margin: 1.3rem 0 1.4rem 0;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 600;
+  font-size: 1rem;
+  letter-spacing: 0rem;
+  color: #000000;
+}
+.jo-jo-is-23-years-old-and-she-studies-chemistry-she-is-aslow-walker-she-often-use-navigaion-application-when-she-explores-sub9 {
+  font-family: 'Nunito Sans';
+  font-weight: 900;
+  font-size: 1rem;
+  letter-spacing: 0rem;
+  line-height: 1.333;
+}
+.jo-jo-is-23-years-old-and-she-studies-chemistry-she-is-aslow-walker-she-often-use-navigaion-application-when-she-explores {
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 1rem;
+  letter-spacing: 0rem;
+  line-height: 1.333;
+}
+.mac-book-air-3 .container-2 {
+  margin: 0 2.5rem 3.5rem 2.5rem;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.mac-book-air-3 .final-system {
+  margin: 0 2.5rem 2.2rem 2.5rem;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Pixel Script', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 3rem;
+  letter-spacing: 0rem;
+  color: #000000;
+}
+.mac-book-air-3 .concept {
+  margin: 0 2.5rem 0.8rem 2.5rem;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'ChicagoFLF', 'Roboto Condensed';
+  font-weight: 500;
+  font-size: 1.3rem;
+  letter-spacing: 0rem;
+  color: #000000;
+}
+.mac-book-air-3 .we-created-asystem-which-functions-with-asmart-ticket-that-the-user-can-carry-around-and-use-with-the-interactive-maps-the-goal-is-to-provide-clear-and-accurate-information-and-directions-to-novices-with-little-to-no-experience-with-railway-systems-and-intermediates-which-are-not-familiar-with-the-city-some-of-the-key-issues-which-we-were-looking-to-solve-were-internet-dependent-navigation-visual-disabilities-and-inaccurate-information-sourcing {
+  margin: 0 2.5rem 1.3rem 2.5rem;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 1rem;
+  color: #000000;
+}
+.mac-book-air-3 .check-our-final-video-prototype-to-see-our-system-storyboard-for-the-video-prototype {
+  margin: 0 2.5rem 2.8rem 2.5rem;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 1rem;
+  text-decoration-line: underline;
+  color: #000000;
+}
+.check-our-final-video-prototype-to-see-our-system-storyboard-for-the-video-prototype-sub39 {
+  font-family: 'Nunito Sans';
+  font-weight: 800;
+  font-size: 1rem;
+  text-decoration-line: underline;
+  line-height: 1.333;
+}
+.check-our-final-video-prototype-to-see-our-system-storyboard-for-the-video-prototype-sub29 {
+  font-family: 'Noto Sans CJK KR', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 1rem;
+  text-decoration-line: underline;
+  line-height: 1.333;
+}
+.check-our-final-video-prototype-to-see-our-system-storyboard-for-the-video-prototype {
+  font-family: 'Noto Sans CJK KR', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 1rem;
+  text-decoration-line: underline;
+  line-height: 1.333;
+}
+.mac-book-air-3 .functions {
+  margin: 0 2.5rem 0.8rem 2.5rem;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'ChicagoFLF', 'Roboto Condensed';
+  font-weight: 500;
+  font-size: 1.3rem;
+  letter-spacing: 0rem;
+  color: #000000;
+}
+.mac-book-air-3 .guide-the-user-in-the-stations-with-step-by-step-directions-on-the-smart-ticket-ticket-alerts-passengers-when-the-wrong-train-approaches-you-can-turn-this-alert-system-on-and-off-interactive-maps-allow-users-to-configure-their-ticket-their-route-and-to-report-various-issues {
+  margin: 0 2.5rem 2.5rem 2.5rem;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 1rem;
+  color: #000000;
+}
+.mac-book-air-3 .interactions {
+  margin: 0 2.5rem 0.8rem 2.5rem;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'ChicagoFLF', 'Roboto Condensed';
+  font-weight: 500;
+  font-size: 1.3rem;
+  letter-spacing: 0rem;
+  color: #000000;
+}
+.mac-book-air-3 .tap-the-ticket-on-an-interactive-screen-to-find-away-to-the-platform-pinch-out-from-the-in-station-view-to-see-the-city-view-drag-the-pinpoint-to-select-destination-long-press-aline-to-report-an-issue-through-apie-menu-tap-two-or-more-tickets-on-an-interactive-screen-to-revealticket-group-boxes-which-allows-linking-tickets-together-by-drag-and-drop-press-the-tickets-wayfinding-button-to-be-guided-to-an-interactive-map {
+  margin: 0 2.5rem 6.3rem 2.5rem;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 1rem;
+  color: #000000;
+}
+.mac-book-air-3 .design-process {
+  margin: 0 2.5rem 1.6rem 2.5rem;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Pixel Script', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 3rem;
+  letter-spacing: 0rem;
+  color: #000000;
+}
+.the-system-was-designed-in-five-stages-following-agenerative-design-process-discovery-we-identified-the-users-and-the-problems-with-the-existing-system-using-various-design-methods-our-story-interviews-debunked-the-assumption-that-signage-posed-amajor-issue-for-foreigners-instead-highlighting-that-google-maps-had-many-limitations-with-subways-feedback-led-to-reifying-various-elements-such-aroute-selection-route-sharing-and-the-initial-ticket-linking-method-for-improved-usability-inspiration-we-brainstormed-several-ideas-and-chose-the-most-feasible-ones-design-we-built-the-initial-system-based-on-the-selected-ideas-evaluation-we-tested-the-system-with-other-designers-or-potential-users-and-gathered-their-feedback-redesign-we-improved-the-design-based-on-the-feedback-adding-features-like-anew-ticket-help-button-for-route-changes-during-unexpected-line-closures-easier-ticket-linking-and-step-by-step-directions-on-the-ticket-screen-for-better-in-station-guidance-sub35 {
+  font-family: 'Nunito Sans';
+  font-weight: 700;
+  font-size: 1rem;
+  line-height: 1.333;
+}
+.the-system-was-designed-in-five-stages-following-agenerative-design-process-discovery-we-identified-the-users-and-the-problems-with-the-existing-system-using-various-design-methods-our-story-interviews-debunked-the-assumption-that-signage-posed-amajor-issue-for-foreigners-instead-highlighting-that-google-maps-had-many-limitations-with-subways-feedback-led-to-reifying-various-elements-such-aroute-selection-route-sharing-and-the-initial-ticket-linking-method-for-improved-usability-inspiration-we-brainstormed-several-ideas-and-chose-the-most-feasible-ones-design-we-built-the-initial-system-based-on-the-selected-ideas-evaluation-we-tested-the-system-with-other-designers-or-potential-users-and-gathered-their-feedback-redesign-we-improved-the-design-based-on-the-feedback-adding-features-like-anew-ticket-help-button-for-route-changes-during-unexpected-line-closures-easier-ticket-linking-and-step-by-step-directions-on-the-ticket-screen-for-better-in-station-guidance {
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 1rem;
+  line-height: 1.333;
+}
+.mac-book-air-3 .the-system-was-designed-in-five-stages-following-agenerative-design-process-discovery-we-identified-the-users-and-the-problems-with-the-existing-system-using-various-design-methods-our-story-interviews-debunked-the-assumption-that-signage-posed-amajor-issue-for-foreigners-instead-highlighting-that-google-maps-had-many-limitations-with-subways-feedback-led-to-reifying-various-elements-such-aroute-selection-route-sharing-and-the-initial-ticket-linking-method-for-improved-usability-inspiration-we-brainstormed-several-ideas-and-chose-the-most-feasible-ones-design-we-built-the-initial-system-based-on-the-selected-ideas-evaluation-we-tested-the-system-with-other-designers-or-potential-users-and-gathered-their-feedback-redesign-we-improved-the-design-based-on-the-feedback-adding-features-like-anew-ticket-help-button-for-route-changes-during-unexpected-line-closures-easier-ticket-linking-and-step-by-step-directions-on-the-ticket-screen-for-better-in-station-guidance {
+  margin: 0 5rem 2.5rem 2.5rem;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 1rem;
+  line-height: 1.438;
+  color: #000000;
+}
+.the-system-was-designed-in-five-stages-following-agenerative-design-process-discovery-we-identified-the-users-and-the-problems-with-the-existing-system-using-various-design-methods-our-story-interviews-debunked-the-assumption-that-signage-posed-amajor-issue-for-foreigners-instead-highlighting-that-google-maps-had-many-limitations-with-subways-feedback-led-to-reifying-various-elements-such-aroute-selection-route-sharing-and-the-initial-ticket-linking-method-for-improved-usability-inspiration-we-brainstormed-several-ideas-and-chose-the-most-feasible-ones-design-we-built-the-initial-system-based-on-the-selected-ideas-evaluation-we-tested-the-system-with-other-designers-or-potential-users-and-gathered-their-feedback-redesign-we-improved-the-design-based-on-the-feedback-adding-features-like-anew-ticket-help-button-for-route-changes-during-unexpected-line-closures-easier-ticket-linking-and-step-by-step-directions-on-the-ticket-screen-for-better-in-station-guidance-sub36 {
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 1rem;
+  line-height: 1.333;
+}
+.mac-book-air-3 .screenshot-20240813-at-120823-am-1 {
+  background: url('assets/images/Screenshot20240813At120823Am1.png') 50% / cover no-repeat;
+  margin-right: 5rem;
+  width: 15.6rem;
+  height: 11.6rem;
+}
+.mac-book-air-3 .screenshot-20240813-at-120837-am-1 {
+  background: url('assets/images/Screenshot20240813At120837Am1.png') 50% / cover no-repeat;
+  margin-right: 5rem;
+  width: 19.5rem;
+  height: 11.6rem;
+}
+.mac-book-air-3 .screenshot-20240813-at-120858-am-1 {
+  background: url('assets/images/Screenshot20240813At120858Am1.png') 50% / cover no-repeat;
+  width: 13.7rem;
+  height: 11.6rem;
+}
+.mac-book-air-3 .container-8 {
+  margin: 0 4rem 1.3rem 4rem;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: 58.8rem;
+  box-sizing: border-box;
+}
+.mac-book-air-3 .improved-method-for-in-station-guidance {
+  margin-right: 0.7rem;
+  width: 17.6rem;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 1rem;
+  letter-spacing: 0rem;
+  color: #000000;
+}
+.mac-book-air-3 .reified-ticket-linking-for-easier-manipulation {
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 1rem;
+  letter-spacing: 0rem;
+  color: #000000;
+}
+.mac-book-air-3 .added-help-button-and-route-sharing {
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 1rem;
+  letter-spacing: 0rem;
+  color: #000000;
+}
+.mac-book-air-3 .container {
+  margin: 0 4rem 2.5rem 4rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 61.2rem;
+  box-sizing: border-box;
+}
+.mac-book-air-3 .alternative-ideas {
+  margin: 0 2.5rem 1.4rem 2.5rem;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'ChicagoFLF', 'Roboto Condensed';
+  font-weight: 500;
+  font-size: 1.3rem;
+  letter-spacing: 0rem;
+  color: #000000;
+}
+.mac-book-air-3 .screenshot-20240813-at-120139-am-1 {
+  background: url('assets/images/Screenshot20240813At120139Am1.png') 50% / cover no-repeat;
+  margin-right: 0.6rem;
+  width: 10rem;
+  height: 13.8rem;
+}
+.mac-book-air-3 .screenshot-20240813-at-120200-am-1 {
+  background: url('assets/images/Screenshot20240813At120200Am1.png') 50% / cover no-repeat;
+  margin-right: 5rem;
+  width: 10rem;
+  height: 13.8rem;
+}
+.mac-book-air-3 .screenshot-20240813-at-120220-am-1 {
+  background: url('assets/images/Screenshot20240813At120220Am1.png') 50% / cover no-repeat;
+  margin-right: 5rem;
+  width: 10rem;
+  height: 13.8rem;
+}
+.mac-book-air-3 .screenshot-20240813-at-120235-am-1 {
+  background: url('assets/images/Screenshot20240813At120235Am1.png') 50% / cover no-repeat;
+  width: 10rem;
+  height: 13.8rem;
+}
+.mac-book-air-3 .container-5 {
+  margin: 0 2.5rem 1.3rem 2.5rem;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: 50.6rem;
+  box-sizing: border-box;
+}
+.mac-book-air-3 .using-ar-to-show-lines-on-the-ground-through-the-tickets-instead-of-step-by-step-directions {
+  margin-right: 2.1rem;
+  width: 22.9rem;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 1rem;
+  letter-spacing: 0rem;
+  color: #000000;
+}
+.mac-book-air-3 .bumping-two-tickets-together-to-link-them {
+  margin-bottom: 1.4rem;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 1rem;
+  letter-spacing: 0rem;
+  color: #000000;
+}
+.mac-book-air-3 .adding-more-interactions-to-the-ticket-using-gestures-in-order-to-stay-away-from-phone-like-interactions {
+  margin-bottom: 1.4rem;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 1rem;
+  letter-spacing: 0rem;
+  color: #000000;
+}
+.mac-book-air-3 .container-6 {
+  margin: 0 2.5rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 63.6rem;
+  box-sizing: border-box;
+}
+.mac-book-air-3 .container-4 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.mac-book-air-3 .group-1 {
+  position: absolute;
+  left: 7.1rem;
+  top: 2.3rem;
+  width: 0.4rem;
+  height: 0.4rem;
+}
+.mac-book-air-3 {
+  background: #FFFFFF;
+  display: flex;
+  padding: 1.3rem 0 10.3rem 0;
+  width: 80rem;
+  box-sizing: border-box;
+}

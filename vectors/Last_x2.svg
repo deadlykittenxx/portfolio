@@ -1,0 +1,7 @@
+<svg width="40" height="20" viewBox="0 0 40 20" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g opacity="0.9">
+<path d="M40,10L20,20L20,0L40,10Z" transform="rotate(360 30 10)" fill="#8793A0"/>
+<path d="M22,10L2,20L2,0L22,10Z" transform="rotate(360 12 10)" fill="#8793A0"/>
+<rect  x="4" y="0" width="4" height="20" transform="rotate(360 4 0)" fill="#8793A0"/>
+</g>
+</svg>

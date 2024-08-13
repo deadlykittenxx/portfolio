@@ -1,0 +1,53 @@
+.menu-bar-menu-apple-1 .school-project {
+  opacity: 0.9;
+  margin-right: 0.5rem;
+  width: 8.1rem;
+  overflow-wrap: break-word;
+  font-family: 'ChicagoFLF', 'Roboto Condensed';
+  font-weight: 500;
+  font-size: 0.8rem;
+  letter-spacing: 0rem;
+  color: var(--system-black, #000000);
+}
+.menu-bar-menu-apple-1 .q {
+  opacity: 0.76;
+  mix-blend-mode: color-burn;
+  margin-right: 0.3rem;
+  overflow-wrap: break-word;
+  font-family: 'SF Pro Text', 'Roboto Condensed';
+  font-weight: 500;
+  font-size: 0.8rem;
+  letter-spacing: 0rem;
+  color: var(--label-color-light-secondary, rgba(60, 60, 67, 0.6));
+}
+.menu-bar-menu-apple-1 .container {
+  overflow-wrap: break-word;
+  font-family: 'SF Pro Text', 'Roboto Condensed';
+  font-weight: 500;
+  font-size: 0.8rem;
+  letter-spacing: 0rem;
+  color: #000000;
+}
+.menu-bar-menu-apple-1 .icon-dark-text-right-chevron {
+  display: flex;
+  box-sizing: border-box;
+}
+.menu-bar-menu-apple-1 .right-side-options {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.menu-bar-menu-apple-1 .content {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 0.6rem 1rem 0.7rem 1rem;
+  width: 100%;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.menu-bar-menu-apple {
+  border: 0.1rem solid var(--system-black, #000000);
+  box-sizing: border-box;
+}

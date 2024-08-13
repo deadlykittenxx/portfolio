@@ -1,0 +1,394 @@
+.menu-bar-menu-apple .category {
+  opacity: 0.9;
+  margin-right: 0.5rem;
+  width: 4.1rem;
+  overflow-wrap: break-word;
+  font-family: 'ChicagoFLF', 'Roboto Condensed';
+  font-weight: 500;
+  font-size: 0.8rem;
+  letter-spacing: 0rem;
+  color: var(--system-black, #000000);
+}
+.menu-bar-menu-apple .q {
+  opacity: 0.76;
+  mix-blend-mode: color-burn;
+  margin-right: 0.3rem;
+  overflow-wrap: break-word;
+  font-family: 'SF Pro Text', 'Roboto Condensed';
+  font-weight: 500;
+  font-size: 0.8rem;
+  letter-spacing: 0rem;
+  color: var(--label-color-light-secondary, rgba(60, 60, 67, 0.6));
+}
+.menu-bar-menu-apple .container {
+  overflow-wrap: break-word;
+  font-family: 'SF Pro Text', 'Roboto Condensed';
+  font-weight: 500;
+  font-size: 0.8rem;
+  letter-spacing: 0rem;
+  color: #000000;
+}
+.menu-bar-menu-apple .icon-dark-text-right-chevron {
+  display: flex;
+  box-sizing: border-box;
+}
+.menu-bar-menu-apple .right-side-options {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.menu-bar-menu-apple .menu-option {
+  margin: 0 1rem 0.8rem 1rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: calc(100% - 2rem);
+  box-sizing: border-box;
+}
+.menu-bar-menu-apple .divider {
+  border: 0.1rem dashed var(--system-black, #000000);
+  width: 12.8rem;
+  height: 0.1rem;
+}
+.menu-bar-menu-apple .menu-option-divider {
+  margin-bottom: 0.8rem;
+  display: flex;
+  width: 12.8rem;
+  height: 0.1rem;
+  box-sizing: border-box;
+}
+.menu-bar-menu-apple .personal-project {
+  opacity: 0.9;
+  overflow-wrap: break-word;
+  font-family: 'ChicagoFLF', 'Roboto Condensed';
+  font-weight: 500;
+  font-size: 0.8rem;
+  letter-spacing: 0rem;
+  color: var(--system-black, #000000);
+}
+.menu-bar-menu-apple .menu-option-1 {
+  margin-bottom: 0.3rem;
+  display: flex;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.menu-bar-menu-apple .world {
+  opacity: 0.9;
+  margin: 0rem 0.5rem 0 0;
+  display: inline-block;
+  width: 2.6rem;
+  overflow-wrap: break-word;
+  font-family: 'ChicagoFLF', 'Roboto Condensed';
+  font-weight: 500;
+  font-size: 0.8rem;
+  letter-spacing: 0rem;
+  color: var(--system-black, #000000);
+}
+.menu-bar-menu-apple .q-1 {
+  opacity: 0.76;
+  mix-blend-mode: color-burn;
+  overflow-wrap: break-word;
+  font-family: 'ChicagoFLF', 'Roboto Condensed';
+  font-weight: 500;
+  font-size: 0.8rem;
+  letter-spacing: 0rem;
+  color: var(--system-black, #000000);
+}
+.q-1-sub25 {
+  font-family: 'SF Pro Text', 'Roboto Condensed';
+  font-weight: 500;
+  font-size: 0.8rem;
+  letter-spacing: 0rem;
+  line-height: 1.333;
+  color: var(--system-black, #000000);
+}
+.menu-bar-menu-apple .right-side-options-1 {
+  margin-bottom: 0rem;
+  display: flex;
+  box-sizing: border-box;
+}
+.menu-bar-menu-apple .menu-option-5 {
+  margin-bottom: 0.3rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+  box-sizing: border-box;
+}
+.menu-bar-menu-apple .shaf {
+  opacity: 0.9;
+  margin: 0rem 0.5rem 0 0;
+  display: inline-block;
+  width: 2rem;
+  overflow-wrap: break-word;
+  font-family: 'ChicagoFLF', 'Roboto Condensed';
+  font-weight: 500;
+  font-size: 0.8rem;
+  letter-spacing: 0rem;
+  color: var(--system-black, #000000);
+}
+.menu-bar-menu-apple .q-2 {
+  opacity: 0.76;
+  mix-blend-mode: color-burn;
+  overflow-wrap: break-word;
+  font-family: 'ChicagoFLF', 'Roboto Condensed';
+  font-weight: 500;
+  font-size: 0.8rem;
+  letter-spacing: 0rem;
+  color: var(--system-black, #000000);
+}
+.q-2-sub25 {
+  font-family: 'SF Pro Text', 'Roboto Condensed';
+  font-weight: 500;
+  font-size: 0.8rem;
+  letter-spacing: 0rem;
+  line-height: 1.333;
+  color: var(--system-black, #000000);
+}
+.menu-bar-menu-apple .right-side-options-2 {
+  margin-bottom: 0rem;
+  display: flex;
+  box-sizing: border-box;
+}
+.menu-bar-menu-apple .menu-option-7 {
+  margin-bottom: 0.3rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+  box-sizing: border-box;
+}
+.menu-bar-menu-apple .school-project {
+  opacity: 0.9;
+  margin: 0rem 0.5rem 0 0;
+  display: inline-block;
+  width: 8.1rem;
+  overflow-wrap: break-word;
+  font-family: 'ChicagoFLF', 'Roboto Condensed';
+  font-weight: 500;
+  font-size: 0.8rem;
+  letter-spacing: 0rem;
+  color: var(--system-black, #000000);
+}
+.menu-bar-menu-apple .q-7 {
+  opacity: 0.76;
+  mix-blend-mode: color-burn;
+  overflow-wrap: break-word;
+  font-family: 'ChicagoFLF', 'Roboto Condensed';
+  font-weight: 500;
+  font-size: 0.8rem;
+  letter-spacing: 0rem;
+  color: var(--system-black, #000000);
+}
+.q-7-sub25 {
+  font-family: 'SF Pro Text', 'Roboto Condensed';
+  font-weight: 500;
+  font-size: 0.8rem;
+  letter-spacing: 0rem;
+  line-height: 1.333;
+  color: var(--system-black, #000000);
+}
+.menu-bar-menu-apple .right-side-options-7 {
+  margin-bottom: 0rem;
+  display: flex;
+  box-sizing: border-box;
+}
+.menu-bar-menu-apple .menu-option-6 {
+  margin-bottom: 0.3rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+  box-sizing: border-box;
+}
+.menu-bar-menu-apple .circle {
+  opacity: 0.9;
+  margin: 0rem 0.5rem 0 0;
+  display: inline-block;
+  width: 2.4rem;
+  overflow-wrap: break-word;
+  font-family: 'ChicagoFLF', 'Roboto Condensed';
+  font-weight: 500;
+  font-size: 0.8rem;
+  letter-spacing: 0rem;
+  color: var(--system-black, #000000);
+}
+.menu-bar-menu-apple .q-6 {
+  opacity: 0.76;
+  mix-blend-mode: color-burn;
+  overflow-wrap: break-word;
+  font-family: 'ChicagoFLF', 'Roboto Condensed';
+  font-weight: 500;
+  font-size: 0.8rem;
+  letter-spacing: 0rem;
+  color: var(--system-black, #000000);
+}
+.q-6-sub25 {
+  font-family: 'SF Pro Text', 'Roboto Condensed';
+  font-weight: 500;
+  font-size: 0.8rem;
+  letter-spacing: 0rem;
+  line-height: 1.333;
+  color: var(--system-black, #000000);
+}
+.menu-bar-menu-apple .right-side-options-6 {
+  margin-bottom: 0rem;
+  display: flex;
+  box-sizing: border-box;
+}
+.menu-bar-menu-apple .menu-option-8 {
+  margin-bottom: 0.3rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+  box-sizing: border-box;
+}
+.menu-bar-menu-apple .stepstrate {
+  opacity: 0.9;
+  margin: 0rem 0.5rem 0 0;
+  display: inline-block;
+  width: 4.6rem;
+  overflow-wrap: break-word;
+  font-family: 'ChicagoFLF', 'Roboto Condensed';
+  font-weight: 500;
+  font-size: 0.8rem;
+  letter-spacing: 0rem;
+  color: var(--system-black, #000000);
+}
+.q-5-sub25 {
+  font-family: 'SF Pro Text', 'Roboto Condensed';
+  font-weight: 500;
+  font-size: 0.8rem;
+  letter-spacing: 0rem;
+  line-height: 1.333;
+  color: var(--system-black, #000000);
+}
+.menu-bar-menu-apple .q-5 {
+  opacity: 0.76;
+  mix-blend-mode: color-burn;
+  overflow-wrap: break-word;
+  font-family: 'ChicagoFLF', 'Roboto Condensed';
+  font-weight: 500;
+  font-size: 0.8rem;
+  letter-spacing: 0rem;
+  color: var(--system-black, #000000);
+}
+.menu-bar-menu-apple .right-side-options-5 {
+  margin-bottom: 0rem;
+  display: flex;
+  box-sizing: border-box;
+}
+.menu-bar-menu-apple .menu-option-4 {
+  margin-bottom: 0.3rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+  box-sizing: border-box;
+}
+.menu-bar-menu-apple .smart-port {
+  opacity: 0.9;
+  margin: 0rem 0.5rem 0 0;
+  display: inline-block;
+  width: 4.7rem;
+  overflow-wrap: break-word;
+  font-family: 'ChicagoFLF', 'Roboto Condensed';
+  font-weight: 500;
+  font-size: 0.8rem;
+  letter-spacing: 0rem;
+  color: var(--system-black, #000000);
+}
+.q-4-sub25 {
+  font-family: 'SF Pro Text', 'Roboto Condensed';
+  font-weight: 500;
+  font-size: 0.8rem;
+  letter-spacing: 0rem;
+  line-height: 1.333;
+  color: var(--system-black, #000000);
+}
+.menu-bar-menu-apple .q-4 {
+  opacity: 0.76;
+  mix-blend-mode: color-burn;
+  overflow-wrap: break-word;
+  font-family: 'ChicagoFLF', 'Roboto Condensed';
+  font-weight: 500;
+  font-size: 0.8rem;
+  letter-spacing: 0rem;
+  color: var(--system-black, #000000);
+}
+.menu-bar-menu-apple .right-side-options-4 {
+  margin-bottom: 0rem;
+  display: flex;
+  box-sizing: border-box;
+}
+.menu-bar-menu-apple .menu-option-3 {
+  margin-bottom: 0.3rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+  box-sizing: border-box;
+}
+.menu-bar-menu-apple .edu-sphere {
+  opacity: 0.9;
+  margin: 0rem 0.5rem 0 0;
+  display: inline-block;
+  width: 4.5rem;
+  overflow-wrap: break-word;
+  font-family: 'ChicagoFLF', 'Roboto Condensed';
+  font-weight: 500;
+  font-size: 0.8rem;
+  letter-spacing: 0rem;
+  color: var(--system-black, #000000);
+}
+.menu-bar-menu-apple .q-3 {
+  opacity: 0.76;
+  mix-blend-mode: color-burn;
+  overflow-wrap: break-word;
+  font-family: 'ChicagoFLF', 'Roboto Condensed';
+  font-weight: 500;
+  font-size: 0.8rem;
+  letter-spacing: 0rem;
+  color: var(--system-black, #000000);
+}
+.q-3-sub25 {
+  font-family: 'SF Pro Text', 'Roboto Condensed';
+  font-weight: 500;
+  font-size: 0.8rem;
+  letter-spacing: 0rem;
+  line-height: 1.333;
+  color: var(--system-black, #000000);
+}
+.menu-bar-menu-apple .right-side-options-3 {
+  margin-bottom: 0rem;
+  display: flex;
+  box-sizing: border-box;
+}
+.menu-bar-menu-apple .menu-option-2 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+  box-sizing: border-box;
+}
+.menu-bar-menu-apple .system-prefs-app-store {
+  margin: 0 1rem;
+  display: flex;
+  flex-direction: column;
+  width: calc(100% - 2rem);
+  box-sizing: border-box;
+}
+.menu-bar-menu-apple .content {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  padding: 0.6rem 0 0.7rem 0;
+  width: 100%;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.menu-bar-menu-apple {
+  border: 0.1rem solid var(--system-black, #000000);
+  box-sizing: border-box;
+}

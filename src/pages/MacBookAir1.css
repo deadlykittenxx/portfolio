@@ -1,0 +1,173 @@
+.mac-book-air-1 .union {
+  transform: rotate(4.814deg);
+  position: absolute;
+  left: 50%;
+  top: 12.4rem;
+  translate: -50% 0;
+  width: 18.6rem;
+  height: 8.1rem;
+}
+.mac-book-air-1 .container-1 {
+  background: url('assets/images/Image.jpeg');
+  position: absolute;
+  left: 24.3rem;
+  bottom: 8.3rem;
+  width: 20.2rem;
+  height: 20.2rem;
+}
+.yeajin-ahn-sub21 {
+  font-family: 'Nunito Sans';
+  font-weight: 400;
+  font-size: 2.3rem;
+  line-height: 1.333;
+}
+.yeajin-ahn {
+  font-family: 'Pixel Script', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 2.3rem;
+  line-height: 1.333;
+}
+.mac-book-air-1 .yeajin-ahn {
+  margin: 0 2.5rem 1.3rem 2.5rem;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 300;
+  font-size: 2.3rem;
+  color: #000000;
+}
+.yeajin-ahn-sub10 {
+  font-family: 'Pixel Script', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 2.3rem;
+  line-height: 1.333;
+}
+.mac-book-air-1 .line-1 {
+  background: #000000;
+  margin-bottom: 0.4rem;
+  width: 80rem;
+  height: 0rem;
+}
+.mac-book-air-1 .index {
+  margin-right: 0.8rem;
+  width: 3.4rem;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 600;
+  font-size: 1.1rem;
+  color: #000000;
+}
+.mac-book-air-1 .resum {
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 600;
+  font-size: 1.1rem;
+  color: #000000;
+}
+.mac-book-air-1 .container-1 {
+  margin: 0 2.5rem 0.4rem 2.5rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-end;
+  width: 10.4rem;
+  box-sizing: border-box;
+}
+.mac-book-air-1 .line-4 {
+  background: #000000;
+  margin-bottom: 2.1rem;
+  width: 80rem;
+  height: 0rem;
+}
+.mac-book-air-1 .container {
+  background: url('assets/images/Image1.jpeg');
+  margin-right: 10.8rem;
+  width: 14.9rem;
+  height: 14.9rem;
+}
+.mac-book-air-1 .container-2 {
+  margin: 5.3rem 4.2rem 6.7rem 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Nunito Sans';
+  font-weight: 300;
+  font-size: 2.1rem;
+  color: #000000;
+}
+.mac-book-air-1 .container-5 {
+  background: url('assets/images/Image2.png');
+  margin: 0.3rem 0 8.1rem 0;
+  width: 6.8rem;
+  height: 6.4rem;
+}
+.mac-book-air-1 .container {
+  margin: 0 6.3rem 1.9rem 6.3rem;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.mac-book-air-1 .click-me {
+  margin: 0 0 0.3rem 47.6rem;
+  display: inline-block;
+  align-self: center;
+  overflow-wrap: break-word;
+  font-family: 'DePixel', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 0.8rem;
+  color: #000000;
+}
+.mac-book-air-1 .container-6 {
+  margin-left: 23.9rem;
+  align-self: center;
+  overflow-wrap: break-word;
+  font-family: 'DePixel', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 0.8rem;
+  color: #000000;
+}
+.mac-book-air-1 .container-2 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.mac-book-air-1 .img-13311 {
+  background: url('assets/images/Img13311.png') 50% / cover no-repeat;
+  position: absolute;
+  right: 11.1rem;
+  bottom: 10.9rem;
+  width: 8.9rem;
+  height: 12.6rem;
+}
+.mac-book-air-1 .container-3 {
+  background: url('assets/images/Image2.png');
+  position: absolute;
+  left: 21.2rem;
+  bottom: 8.3rem;
+  width: 5.5rem;
+  height: 6.2rem;
+}
+.mac-book-air-1 .container-4 {
+  background: url('assets/images/Image2.png');
+  position: absolute;
+  left: 14.8rem;
+  bottom: 13.5rem;
+  width: 7.1rem;
+  height: 7.3rem;
+}
+.mac-book-air-1 .group-1 {
+  position: absolute;
+  left: 7.1rem;
+  top: 2.3rem;
+  width: 0.4rem;
+  height: 0.4rem;
+}
+.mac-book-air-1 {
+  background: #FFFFFF;
+  display: flex;
+  padding: 1.3rem 0 0.3rem 0;
+  width: 80rem;
+  box-sizing: border-box;
+}
