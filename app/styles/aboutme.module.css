@@ -1,0 +1,248 @@
+.background {
+    background-image:
+        linear-gradient(to bottom, rgba(249, 249, 251, 0) 80%, rgba(249, 249, 251, 1) 100%),
+        url(/main-background.png);
+    width: 100%;
+
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+
+.folderWrapper {
+    padding-top: 160px;
+    position: relative;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.folder {
+    position: relative;
+    width: 40vw;
+    max-width: 800px;
+    aspect-ratio: 5 / 7;
+    perspective: 2000px;
+    margin: 0 auto;
+    z-index: 1;
+}
+
+/* 앞표지 (회전하는 부분) */
+.coverContainer {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    transform-origin: left center;
+    transition: transform 1s ease;
+    z-index: 3;
+    transform-style: preserve-3d;
+}
+
+.profile {
+    transform: rotate(-25deg);
+    z-index: 0;
+    width: 25vw;
+    position: absolute;
+    top: 5%;
+    right: 8%;
+}
+
+.gradeSheet {
+    transform: scale(1);
+    width: 30vw;
+    position: absolute;
+    top: 26%;
+    left: 5%;
+    opacity: 1;
+    z-index: 5;
+    transition: transform 0.8s ease, opacity 0.8s ease;
+}
+
+.cover {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    left: 0;
+    backface-visibility: hidden;
+    transform-style: preserve-3d;
+
+}
+
+/* 내부 왼쪽 면 */
+.coverInside {
+    top: 0;
+    left: 0;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    z-index: 2;
+    opacity: 0;
+    transition: opacity 0.8s ease 0.1s;
+}
+
+
+/* 종이 */
+.paper {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    z-index: 1;
+    opacity: 1;
+    transition: opacity 0.8s ease 0.6s;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.paperBg {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.paperText {
+    position: relative;
+    z-index: 2;
+    text-align: left;
+    width: 100%;
+    max-width: 90%;
+    max-height: 90%;
+    /* 종이 안을 넘지 않게 */
+    padding: 16px;
+    box-sizing: border-box;
+    overflow-y: auto;
+    /* 세로로 넘치면 스크롤 */
+}
+
+
+/* hover 시 회전 */
+.folder:hover .coverContainer {
+    transform: rotateY(-130deg) translateZ(-10px);
+}
+
+.folder:hover .coverInside {
+    opacity: 1;
+}
+
+.folder:hover .paper {
+    opacity: 1;
+}
+
+.hiddenBehind {
+    z-index: 0;
+    opacity: 0.6;
+    transform: scale(0.9);
+}
+
+
+
+
+
+
+.table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 1rem;
+    line-height: 1.5rem;
+    border: 1px solid var(--black)
+}
+
+.table td,
+.table th {
+    border: 1px solid var(--black);
+    /* vertical-align: top; */
+    padding: 10px;
+}
+
+.table p {
+    font-size: 1rem;
+    line-height: 1.5rem;
+}
+
+.profileCell {
+    vertical-align: top;
+}
+
+.profilePicture {
+    width: 140px;
+    transform: rotate(-10deg);
+}
+
+/* .cell,
+.fullWidth,
+.sectionTitle {
+    vertical-align: top;
+} */
+
+.fullWidth {}
+
+.sectionTitle {
+    font-weight: bold;
+}
+
+.timelineTraitsRow {
+    display: flex;
+    gap: 24px;
+}
+
+.timelineTraitsTitle {
+    flex: 1 1 50%;
+}
+
+.timeline {
+    flex: 1 1 50%;
+    border-left: 1px solid var(--black);
+    padding-left: 4px;
+}
+
+.event {
+    margin-bottom: 24px;
+    position: relative;
+    padding-left: 12px;
+}
+
+.marker {
+    position: absolute;
+    left: -10px;
+    top: 6px;
+    width: 10px;
+    height: 10px;
+    background-color: black;
+    border-radius: 50%;
+}
+
+.content h4 {
+    margin: 0;
+    font-weight: bold;
+}
+
+.content p {}
+
+.traits {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    padding: 8px 0;
+    flex: 50%;
+}
+
+.traitRow {}
+
+.traitRow:first-child {
+    border-top: none;
+}
+
+.traitRow p,
+.traitRow ul {
+    margin: 4px 0;
+    font-size: 13px;
+}
+
+.traitRow strong {
+    display: inline-block;
+    margin-bottom: 4px;
+}

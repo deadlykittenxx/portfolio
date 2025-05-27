@@ -1,0 +1,9 @@
+.star-divider {
+    width: 100%;
+    white-space: nowrap;
+    overflow: hidden;
+    text-align: center;
+    color: var(--gray);
+    letter-spacing: 0.4rem;
+    font-size: 0.8rem;
+}

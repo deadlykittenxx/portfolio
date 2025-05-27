@@ -1,0 +1,25 @@
+.footer {
+  padding: 26px 0;
+  color: var(--black);
+  border-top: 1px solid var(--lightgray);
+  margin-top: 80px;
+}
+
+.footerContainer {
+  margin: 0 auto;
+  padding: 0 20px;
+  text-align: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.links {
+  display: flex;
+  gap: 16px;
+}
+
+.links a {
+  color: var(--black);
+  text-decoration: none;
+  transition: color 0.3s ease;
+}

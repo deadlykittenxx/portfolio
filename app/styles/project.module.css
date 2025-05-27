@@ -1,0 +1,122 @@
+.link {
+    text-decoration: underline;
+    color: var(--link);
+}
+
+.background {
+    width: 100%;
+    height: 400px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* background-position: center center; */
+}
+
+.header {
+    padding: 0px 80px;
+    display: flex;
+    flex-direction: column;
+    gap: 26px;
+}
+
+.header .title h1 {
+    font-size: 5rem;
+    line-height: 5.5rem;
+
+}
+
+.header .title h4 {
+    font-weight: 400;
+}
+
+.headerDetail {
+    display: flex;
+}
+
+.headerDetail div {
+    display: flex;
+    flex-direction: column;
+    margin-right: 40px;
+}
+
+.headerDetail div:last-child {
+    margin-right: 0px;
+}
+
+.headerDetail h6 {
+    color: var(--gray);
+}
+
+.container {
+    padding: 0px 80px;
+    margin-top: 80px;
+
+    display: flex;
+    flex-direction: column;
+    gap: 80px;
+}
+
+.container .section {
+    display: flex;
+    gap: 60px;
+    justify-content: start;
+    align-items: flex-start;
+}
+
+.container .section>div:first-child {
+    min-width: 200px;
+}
+
+.container .section>div:first-child h4 {
+    line-height: 1rem;
+}
+
+.container .section>div:last-child {
+    width: 100%;
+}
+
+
+.process {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.process div:nth-child(2n) {
+    width: 20px;
+    display: flex;
+}
+
+.process div:nth-child(2n+1) {
+    min-width: 140px;
+}
+
+.process h5 {
+    color: var(--gray);
+}
+
+.imageContainer {
+    width: 100%;
+    margin: 26px 0px;
+    text-align: center;
+}
+
+.imageContainer img {
+    width: 60%;
+    border-radius: 16px;
+    border: 1px solid var(--lightgray);
+}
+
+.imageContainerDouble {
+    width: 100%;
+    display: flex;
+    gap: 10px;
+    margin: 26px 0px;
+    text-align: center;
+    justify-content: space-around;
+}
+
+.imageContainerDouble img {
+    width: 50%;
+    border-radius: 16px;
+    border: 1px solid var(--lightgray);
+}
