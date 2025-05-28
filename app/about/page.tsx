@@ -28,12 +28,12 @@ const AboutPage: React.FC = () => {
                     <div className={`${styles.folder}`} onMouseEnter={() => setIsHovered(true)}
                         onMouseLeave={() => setIsHovered(false)}>
                         <div className={styles.coverContainer}>
-                            <img src="/file-cover.png" alt="Cover" className={styles.cover} />
-                            <img src="/file-cover-inside.png" alt="Cover" className={styles.coverInside} />
+                            <img src="/file-cover.webp" alt="Cover" className={styles.cover} />
+                            <img src="/file-cover-inside.webp" alt="Cover" className={styles.coverInside} />
                         </div>
                         {/* <img src="/file-cover-inside.png" alt="Inside Left Cover" className={styles.coverInside} /> */}
                         <div className={styles.paper}>
-                            <img src="/file-paper.png" alt="Paper" className={styles.paperBg} />
+                            <img src="/file-paper.webp" alt="Paper" className={styles.paperBg} />
                             <div className={styles.paperText}>
                                 {/* <table className={styles.table}>
                                     <tbody>
@@ -140,8 +140,8 @@ const AboutPage: React.FC = () => {
                         </div>
 
                     </div>
-                    <img src="/grade-sheet.png" alt="Profile" className={`${styles.gradeSheet} ${isHovered ? styles.hiddenBehind : ''}`} />
-                    <img src="/id-card.png" alt="Profile" className={styles.profile} />
+                    <img src="/grade-sheet.webp" alt="Profile" className={`${styles.gradeSheet} ${isHovered ? styles.hiddenBehind : ''}`} />
+                    <img src="/id-card.webp" alt="Profile" className={styles.profile} />
                 </div>
 
 
