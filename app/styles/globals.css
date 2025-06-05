@@ -105,6 +105,15 @@ hr {
   padding: 4px 10px;
 }
 
+.chips-white-square {
+  width: fit-content;
+  margin-right: 6px;
+  border-radius: 6px;
+  padding: 4px 6px;
+  background-color: var(--bluegray);
+  color: var(--black);
+}
+
 .chipsContainer .chips {
   margin-right: 4px;
 }

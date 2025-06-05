@@ -36,7 +36,7 @@ const ShafPage: React.FC = () => {
 
                         <div className="box">
                             <h6>Role</h6>
-                            <p>UI·UX Designer/UX Researcher</p>
+                            <p>UI·UX designer/UX researcher</p>
                         </div>
 
                     </div>
@@ -373,12 +373,12 @@ const ShafPage: React.FC = () => {
                         </div>
 
                         <div className={`${styles.deliverablesList}`}>
-                            <p>Here are the key design deliverables I've developed to date, along with the ongoing improvements I continue to implement:</p>
+                            <p>Here are the key design deliverables I've developed to date:</p>
 
 
                             <div className={`${styles.deliverables}`}>
                                 <h2 className="fw-3">
-                                    Find and Share Food in Real-Time
+                                    Find and share food in real-time
                                 </h2>
                                 <p>To help users access the ingredients they need without hassle, I introduced a real-time map-based search experience.
                                     Instead of browsing through lists, users can now easily locate nearby refrigerators visually and interactively on the map, encouraging spontaneous sharing and retrieval.</p>
@@ -397,7 +397,7 @@ const ShafPage: React.FC = () => {
 
                             <div className={`${styles.deliverables}`}>
                                 <h2 className="fw-3">
-                                    Enhancing Freshness and Security through a Time-Limited Access Flow
+                                    Enhancing freshness and security through a time-limited access flow
                                 </h2>
 
                                 <p>During the research, one key insight that emerged was that many users prioritize the freshness of the food above all else. Additionally, trust in the service was identified as a critical factor for users.With this in mind, a three-step process was introduced to ensure food remains fresh and secure throughout the sharing cycle. </p>
@@ -414,7 +414,7 @@ const ShafPage: React.FC = () => {
 
                             <div className={`${styles.deliverables}`}>
                                 <h2 className="fw-3">
-                                    Encouraging Sharing Through the Reward System
+                                    Encouraging sharing through the reward system
                                 </h2>
 
                                 <p>
@@ -433,7 +433,7 @@ const ShafPage: React.FC = () => {
 
                             <div className={`${styles.deliverables}`}>
                                 <h2 className="fw-3">
-                                    Building Accountability through Communication
+                                    Building accountability through communication
                                 </h2>
 
                                 <p>To strengthen the sense of community in the sharing process, a feature was introduced allowing users to send thank-you messages after receiving food. Additionally, a reporting system was implemented for users to flag any problematic items.</p>

@@ -67,7 +67,7 @@
 }
 
 .container .section>div:first-child h4 {
-    line-height: 1rem;
+    line-height: 2rem;
 }
 
 .container .section>div:last-child {
@@ -119,4 +119,8 @@
     width: 50%;
     border-radius: 16px;
     border: 1px solid var(--lightgray);
+}
+
+.h4Title {
+    margin-top: -0.5rem;
 }
