@@ -6,6 +6,7 @@ import shared from '../styles/project.module.css';
 import styles from '../styles/reelnotes.module.css';
 import PageWrapper from '../components/PageWrapper';
 import * as Icons from '../components/icons';
+import StarDivider from '../components/StarDivider';
 
 
 const ReelnotesPage: React.FC = () => {
@@ -90,7 +91,10 @@ const ReelnotesPage: React.FC = () => {
                             <div>
                                 <h6>03</h6>
                                 <h5>Design</h5>
-                                <p>User scenario</p>
+                                <p>Persona
+                                    <br></br>
+                                    User scenario
+                                </p>
                             </div>
 
                             <div>
@@ -101,7 +105,7 @@ const ReelnotesPage: React.FC = () => {
                             <div>
                                 <h6>04</h6>
                                 <h5>Implement</h5>
-                                <p>Wireframe<br></br>Prototype</p>
+                                <p>Prototype<br></br>Development</p>
                             </div>
                         </div>
                     </div>
@@ -232,9 +236,176 @@ const ReelnotesPage: React.FC = () => {
                             <h4>Persona</h4>
                         </div>
                         <div>
+                            <p>
+                                After selecting the core idea to develop from our brainstorming sessions, we defined two personas. Each persona highlighted distinct problems they faced with existing movie streaming sites. Through user scenarios, we then showcased how our system effectively solves these challenges for each of them.
+                            </p>
+                            <div className={`flex-column ${styles.persona}`}>
+                                <div className="flex">
+                                    <div className={`${styles.personaImg}`}>
+                                        <img className={`${styles.personaImage}`} src="/case-study/reelnotes/persona.png" alt="Persona" />
+                                    </div>
+                                    <div className={`flex-column ${styles.personaDescription}`}>
+                                        <p>Bocchi |  Detail-oriented cinephile</p>
+                                        <div>
+                                            <h4>Background</h4>
+                                            <p>Bocchi is a highschool student. Beyond just watching movies, she loves analyzing directorial choices or subtle facial expressions, and keeping her own detailed viewing notes. While she enjoys analog note-taking, she's always found it cumbersome to link her notes directly to specific movie scenes.</p>
+                                        </div>
+
+
+                                        <div>
+                                            <h4>Problem</h4>
+                                            <p>Existing streaming services interrupt her immersion when she pauses to jot down notes in a separate app. Her recorded notes are often disconnected from the actual movie scenes, making them hard to reference later.
+                                            </p>
+                                        </div>
+
+                                        <div>
+                                            <h4>Usage scenario</h4>
+                                            <p>As Bocchi watches a film, she pauses at impactful moments to leave detailed annotations with specific timestamps and screen positions.These annotations are organized within his personal library, making it easy to reference. She can click any annotation to jump directly to the relevant scene, allowing her to efficiently verify details.
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                            <hr className="hr-straight"></hr>
+                            <div className={`flex-column ${styles.persona}`}>
+                                <div className="flex">
+                                    <div className={`${styles.personaImg}`}>
+                                        <img className={`${styles.personaImage}`} src="/case-study/reelnotes/persona3.png" alt="Persona" />
+                                    </div>
+                                    <div className={`flex-column ${styles.personaDescription}`}>
+                                        <p>Nijika |  Social viewer</p>
+                                        <div>
+                                            <h4>Background</h4>
+                                            <p>Nijika is a early-20s university student. Although she often watches movies alone, she places high importance on discussing films and sharing emotions with friends. Since they rarely watch together at the same time, real-time communication about movies is a challenge.</p>
+                                        </div>
+
+
+                                        <div>
+                                            <h4>Problem</h4>
+                                            <p>Discussing movies usually involves sending separate messages or chatting in group apps, which makes it hard to pinpoint exact scenes. Conversations often don't flow well when friends watch the same movie at different times.
+                                            </p>
+                                        </div>
+
+                                        <div>
+                                            <h4>Usage scenario</h4>
+                                            <p>Nijika watches a film and leaves a short comment and emotion as an annotation on a particular scene. This annotation immediately appears on her friends' timelines. When her friends watch the same movie later, they discover her annotation and leave a short reply. Maya sees their reactions in real-time, feeling the joy of a shared viewing experience despite being apart.
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+
+
+                    <div className={`${shared.section}`}>
+                        <div>
+                            <h4>Flowchart</h4>
+                        </div>
+                        <div>
+                            <p>We proceeded to map out the precise steps users would take within service, based on our understanding of target users through detailed personas. These user flows translate the scenarios into concrete interactions, illustrating the journey users embark on to achieve their goals.</p>
+
+                            <div className={`${styles.userflow}`}>
+                                <img src="/case-study/reelnotes/flowchart.png" alt="User flow" />
+                            </div>
+                        </div>
+                    </div>
+
+
+                    <div className={`${shared.section}`}>
+                        <div>
+                            <h4>Hifi Prototype</h4>
+                        </div>
+                        <div>
+                            <p>
+                                We made a decision to bypass traditional wireframing and move directly into high-fidelity prototype. This approach was driven by the project's need to rapidly develop core functionalities within a limited timeframe. <br /><br />
+
+                                The high-fidelity prototype allowed us to minimize concerns about UI design or visual aesthetics, letting us focus solely on implementing the features.<br /><br />
+
+                                Below are two key screens from our developed high-fidelity prototype, showcasing the main functionalities:
+                            </p>
+
+                            <div className={`flex ${styles.hifi}`}>
+                                <div className={`flex-column ${styles.hifi}`}>
+                                    <img src="/case-study/reelnotes/proto_movie.png" alt="Hifi prototype" />
+                                    <h5>View annotations on the movie screen</h5>
+                                </div>
+                                <div className={`flex-column ${styles.hifi}`}>
+                                    <img src="/case-study/reelnotes/proto_list.png" alt="Hifi prototype" />
+                                    <h5>Annotation patterns on the timeline</h5>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+
+                    <div className={`${shared.section}`}>
+                        <div>
+                            <h4>Technical Aspects</h4>
+                        </div>
+                    </div>
+
+                    <StarDivider />
+                    <div className={`${shared.section}`}>
+                        <div>
+                            <h4>Design Deliverables</h4>
+                        </div>
+
+                        <div className={`${shared.deliverablesList}`}>
+                            <div className={`${shared.deliverables}`}>
+                                <h2 className="fw-3">
+                                    Share annotations between users
+                                </h2>
+
+                                <p>Users can leave annotations at specific timestamps and positions while watching a movie. These annotations are visible to others at the exact time and location they were added.
+                                </p>
+
+
+                                <video className={`${styles.video}`} autoPlay loop muted playsInline preload="metadata">
+                                    <source src="/case-study/reelnotes/leave_see_comment.mov" type="video/mp4" />
+                                </video>
+                            </div>
+
+
+                            <hr className="hr-straight"></hr>
+
+                            <div className={`${shared.deliverables}`}>
+                                <h2 className="fw-3">
+                                    Interact with annotations
+                                </h2>
+                                <p>
+                                    Users can view all annotations attached to a movie on the right side of the screen. Clicking on an annotation takes them directly to its corresponding timestamp. Newly added annotations are updated in real-time within this panel.
+                                </p>
+
+                                <video className={`${styles.video}`} autoPlay loop muted playsInline preload="metadata">
+                                    <source src="/case-study/reelnotes/using_bookmark.mov" type="video/mp4" />
+                                </video>
+                            </div>
+
+                            <hr className="hr-straight"></hr>
+
+                            <div className={`${shared.deliverables}`}>
+                                <h2 className="fw-3">
+                                    Analyze annotation patterns
+                                </h2>
+
+                                <p>
+                                    Users can access their favorite movies through the library, which includes a graph of annotations from the people they follow. Users can interact with the graph to easily explore the annotations.
+                                </p>
+
+                                <video className={`${styles.video}`} autoPlay loop muted playsInline preload="metadata">
+                                    <source src="/case-study/reelnotes/library.mov" type="video/mp4" />
+                                </video>
+                            </div>
+
+                            <hr className="hr-straight"></hr>
+
 
                         </div>
                     </div>
+
                 </div>
 
 

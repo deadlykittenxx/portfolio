@@ -124,3 +124,15 @@
 .h4Title {
     margin-top: -0.5rem;
 }
+
+.deliverablesList {
+    display: flex;
+    flex-direction: column;
+    gap: 46px;
+}
+
+.deliverables>h2 {
+    margin-bottom: 10px;
+    font-size: 3rem;
+    line-height: 3.6rem;
+}

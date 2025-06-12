@@ -372,11 +372,10 @@ const ShafPage: React.FC = () => {
                             <h4>Design Deliverables</h4>
                         </div>
 
-                        <div className={`${styles.deliverablesList}`}>
-                            <p>Here are the key design deliverables I've developed to date:</p>
+                        <div className={`${shared.deliverablesList}`}>
 
 
-                            <div className={`${styles.deliverables}`}>
+                            <div className={`${shared.deliverables}`}>
                                 <h2 className="fw-3">
                                     Find and share food in real-time
                                 </h2>
@@ -395,7 +394,7 @@ const ShafPage: React.FC = () => {
 
                             <hr className="hr-straight"></hr>
 
-                            <div className={`${styles.deliverables}`}>
+                            <div className={`${shared.deliverables}`}>
                                 <h2 className="fw-3">
                                     Enhancing freshness and security through a time-limited access flow
                                 </h2>
@@ -412,7 +411,7 @@ const ShafPage: React.FC = () => {
 
                             <hr className="hr-straight"></hr>
 
-                            <div className={`${styles.deliverables}`}>
+                            <div className={`${shared.deliverables}`}>
                                 <h2 className="fw-3">
                                     Encouraging sharing through the reward system
                                 </h2>
@@ -431,7 +430,7 @@ const ShafPage: React.FC = () => {
 
                             <hr className="hr-straight"></hr>
 
-                            <div className={`${styles.deliverables}`}>
+                            <div className={`${shared.deliverables}`}>
                                 <h2 className="fw-3">
                                     Building accountability through communication
                                 </h2>
