@@ -164,11 +164,11 @@ const ReelnotesPage: React.FC = () => {
                             </p>
 
                             <div className={`flex ${styles.brainstorming}`}>
-                                <img src="/case-study/reelnotes/brainstorming_01.png" alt="Brainstorming idea" />
-                                <img src="/case-study/reelnotes/brainstorming_02.png" alt="Brainstorming idea" />
-                                <img src="/case-study/reelnotes/brainstorming_03.png" alt="Brainstorming idea" />
-                                <img src="/case-study/reelnotes/brainstorming_04.png" alt="Brainstorming idea" />
-                                <img src="/case-study/reelnotes/brainstorming_05.png" alt="Brainstorming idea" />
+                                <img src="/case-study/reelnotes/brainstorming_01.webp" alt="Brainstorming idea" />
+                                <img src="/case-study/reelnotes/brainstorming_02.webp" alt="Brainstorming idea" />
+                                <img src="/case-study/reelnotes/brainstorming_03.webp" alt="Brainstorming idea" />
+                                <img src="/case-study/reelnotes/brainstorming_04.webp" alt="Brainstorming idea" />
+                                <img src="/case-study/reelnotes/brainstorming_05.webp" alt="Brainstorming idea" />
                             </div>
                         </div>
                     </div>
@@ -183,7 +183,7 @@ const ReelnotesPage: React.FC = () => {
                             </p>
 
                             <div className={`${styles.designSpace}`}>
-                                <img src="/case-study/reelnotes/designspace.png" alt="Design space" />
+                                <img src="/case-study/reelnotes/designspace.webp" alt="Design space" />
                                 {/* 
                                 <div className={`flex-column`}>
                                     <div className={`flex ${styles.designSpaceTitle}`}>
@@ -242,7 +242,7 @@ const ReelnotesPage: React.FC = () => {
                             <div className={`flex-column ${styles.persona}`}>
                                 <div className="flex">
                                     <div className={`${styles.personaImg}`}>
-                                        <img className={`${styles.personaImage}`} src="/case-study/reelnotes/persona.png" alt="Persona" />
+                                        <img className={`${styles.personaImage}`} src="/case-study/reelnotes/persona.webp" alt="Persona" />
                                     </div>
                                     <div className={`flex-column ${styles.personaDescription}`}>
                                         <p>Bocchi |  Detail-oriented cinephile</p>
@@ -271,7 +271,7 @@ const ReelnotesPage: React.FC = () => {
                             <div className={`flex-column ${styles.persona}`}>
                                 <div className="flex">
                                     <div className={`${styles.personaImg}`}>
-                                        <img className={`${styles.personaImage}`} src="/case-study/reelnotes/persona3.png" alt="Persona" />
+                                        <img className={`${styles.personaImage}`} src="/case-study/reelnotes/persona3.webp" alt="Persona" />
                                     </div>
                                     <div className={`flex-column ${styles.personaDescription}`}>
                                         <p>Nijika |  Social viewer</p>
@@ -308,7 +308,7 @@ const ReelnotesPage: React.FC = () => {
                             <p>We proceeded to map out the precise steps users would take within service, based on our understanding of target users through detailed personas. These user flows translate the scenarios into concrete interactions, illustrating the journey users embark on to achieve their goals.</p>
 
                             <div className={`${styles.userflow}`}>
-                                <img src="/case-study/reelnotes/flowchart.png" alt="User flow" />
+                                <img src="/case-study/reelnotes/flowchart.webp" alt="User flow" />
                             </div>
                         </div>
                     </div>
@@ -329,11 +329,11 @@ const ReelnotesPage: React.FC = () => {
 
                             <div className={`flex ${styles.hifi}`}>
                                 <div className={`flex-column ${styles.hifi}`}>
-                                    <img src="/case-study/reelnotes/proto_movie.png" alt="Hifi prototype" />
+                                    <img src="/case-study/reelnotes/proto_movie.webp" alt="Hifi prototype" />
                                     <h5>View annotations on the movie screen</h5>
                                 </div>
                                 <div className={`flex-column ${styles.hifi}`}>
-                                    <img src="/case-study/reelnotes/proto_list.png" alt="Hifi prototype" />
+                                    <img src="/case-study/reelnotes/proto_list.webp" alt="Hifi prototype" />
                                     <h5>Annotation patterns on the timeline</h5>
                                 </div>
 
@@ -420,8 +420,8 @@ const ReelnotesPage: React.FC = () => {
                             <p>We chose a custom video player VJS because the built-in bootstrap player included inaccessible padding, making precise note positioning challenging. Relative coordinates, expressed as percentages of the video’s width and height, ensured notes stayed aligned with the video content across different dimensions and devices. By dynamically recalculating pixel positions during resizing or full-screen transitions, the custom player delivered a responsive and user-friendly experience.</p>
 
                             <div className={`flex ${styles.challenge}`}>
-                                <img src="/case-study/reelnotes/challenge_1.png" alt="Challenge & Solution" />
-                                <img src="/case-study/reelnotes/challenge_2.png" alt="Challenge & Solution" />
+                                <img src="/case-study/reelnotes/challenge_1.webp" alt="Challenge & Solution" />
+                                <img src="/case-study/reelnotes/challenge_2.webp" alt="Challenge & Solution" />
                             </div>
 
                             <p>It also ensures that notes and timeline bookmarks remain accurately positioned at the same relative coordinates, regardless of screen size or resolution.</p>
