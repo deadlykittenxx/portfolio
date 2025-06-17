@@ -239,22 +239,22 @@ const ShafPage: React.FC = () => {
                             <div className={`flex-column ${styles.persona}`}>
                                 <div className="flex">
                                     <div className={`${styles.personaImg}`}>
-                                        <img className={`${styles.personaImage}`} src="/case-study/shaf/persona-female.webp" alt="Persona" />
+                                        <img className={`${styles.personaImage}`} src="/case-study/shaf/persona1.webp" alt="Persona" />
                                     </div>
                                     <div>
-                                        <h4>Joo-hee | 27 years old | Office worker</h4>
-                                        <p>Joo-hee, who became a single-person household as she moved away from her hometown after changing her job, started cooking for herself for the first time in her life. However, she was frustrated because there was more food waste than expected and there were no places to store the ingredients.</p>
+                                        <h4>Kita | 27 years old | Office worker</h4>
+                                        <p>Kita, who became a single-person household as she moved away from her hometown after changing her job, started cooking for herself for the first time in her life. However, she was frustrated because there was more food waste than expected and there were no places to store the ingredients.</p>
                                     </div>
                                 </div>
 
 
                                 <div className="flex">
                                     <div className={`${styles.personaImg}`}>
-                                        <img className={`${styles.personaImage}`} src="/case-study/shaf/persona-male.webp" alt="Persona" />
+                                        <img className={`${styles.personaImage}`} src="/case-study/shaf/persona2.webp" alt="Persona" />
                                     </div>
                                     <div>
-                                        <h4>Eunwoo | 23 years old | Student</h4>
-                                        <p>University student Luke, who became independent while entering university, cooks for the environment even if he wants to order delivery food. However he’s starting to get tired of cooking by himself.</p>
+                                        <h4>Ryo | 23 years old | Student</h4>
+                                        <p>University student Ryo, who became independent while entering university, cooks for the environment even if he wants to order delivery food. However he’s starting to get tired of cooking by himself.</p>
                                     </div>
                                 </div>
                             </div>
