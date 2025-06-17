@@ -343,7 +343,12 @@ const ReelnotesPage: React.FC = () => {
 
                     <div className={`${shared.section}`}>
                         <div>
-                            <h4>Technical Aspects</h4>
+                            <h4>Implementation</h4>
+                        </div>
+                        <div>
+                            <p>Reelnotes was built with a robust tech stack. The frontend is based on HTML, CSS, and JavaScript, with Bootstrap implementing responsive design. d3.js visualizes annotation pattern, and AJAX updates search results.
+                                <br /><br />
+                                Operating on an npm-based development environment, the backend handles server logic and application structure using Node.js and Express.js. For data management, a JSON file-based local database was utilized. This will require improvement to a remote database in the future.</p>
                         </div>
                     </div>
 
@@ -400,12 +405,40 @@ const ReelnotesPage: React.FC = () => {
                                 </video>
                             </div>
 
-                            <hr className="hr-straight"></hr>
-
 
                         </div>
                     </div>
 
+
+                    <hr className="hr-straight"></hr>
+
+                    <div className={`${shared.section}`}>
+                        <div>
+                            <h4>Challenge and Solution</h4>
+                        </div>
+                        <div>
+                            <p>We chose a custom video player VJS because the built-in bootstrap player included inaccessible padding, making precise note positioning challenging. Relative coordinates, expressed as percentages of the video’s width and height, ensured notes stayed aligned with the video content across different dimensions and devices. By dynamically recalculating pixel positions during resizing or full-screen transitions, the custom player delivered a responsive and user-friendly experience.</p>
+
+                            <div className={`flex ${styles.challenge}`}>
+                                <img src="/case-study/reelnotes/challenge_1.png" alt="Challenge & Solution" />
+                                <img src="/case-study/reelnotes/challenge_2.png" alt="Challenge & Solution" />
+                            </div>
+
+                            <p>It also ensures that notes and timeline bookmarks remain accurately positioned at the same relative coordinates, regardless of screen size or resolution.</p>
+                        </div>
+                    </div>
+
+                    <div className={`${shared.section}`}>
+                        <div>
+                            <h4>Future Direction</h4>
+                        </div>
+                        <div className={`flex-column ${styles.futureDirection}`}>
+                            <h2 className="fw-3">Enhancing flexibility in annotation</h2>
+                            <p>
+                                To make the core experience even more flexible, we plan to introduce features that give users more control. This includes a <b>toggle option</b> for annotations, allowing users to easily hide or display notes as they wish, minimizing visual clutter when not needed. <br /><br />Additionally, <b>drag-and-drop</b> functionality for annotations will enable users to freely move notes around the screen. This not only makes the annotations themselves more interactive, but also allows users who wrote them to play around together, which makes communication more interesting and unexpected.
+                            </p>
+                        </div>
+                    </div>
                 </div>
 
 

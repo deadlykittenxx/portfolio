@@ -114,14 +114,59 @@
 
 .hifi img {
     width: 100%;
-    border-radius: 20px;
+    border-radius: 10px;
 }
 
 .video {
     display: block;
     width: 80%;
     margin: 0px auto;
-    border-radius: 20px;
-    filter: drop-shadow(0px 0px 10px #cccccc9f);
+    border-radius: 8px;
+    filter: drop-shadow(0px 0px 10px #626262a2);
     margin-top: 46px;
+}
+
+
+.challenge {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 26px;
+}
+
+.challenge img:first-child {
+    flex: 1;
+    /* 첫 번째 이미지 - 비율 1 */
+    height: auto;
+    object-fit: cover;
+    max-width: 30%;
+
+}
+
+.challenge img:last-child {
+    flex: 2;
+    /* 두 번째 이미지 - 비율 2 */
+    height: auto;
+    object-fit: cover;
+    max-width: 70%;
+}
+
+
+.insightTitle {
+    align-items: center;
+    font-weight: 600;
+}
+
+
+
+.insightTitle h5 {
+    margin-right: 6px;
+    border-radius: 6px;
+    padding: 4px 6px;
+    background-color: var(--bluegray);
+    color: var(--black);
+}
+
+.futureDirection h2 {
+    margin-bottom: 10px;
 }

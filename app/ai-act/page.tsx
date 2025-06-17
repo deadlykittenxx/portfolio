@@ -396,20 +396,29 @@ const AIactPage: React.FC = () => {
                             <div className={`flex-column ${styles.insight}`}>
 
                                 <div className='flex-column'><div className="flex-as">
-                                    <h5 className="chips-black">1</h5> <h2 className="fw-3">Need for gamification</h2>
-
+                                    <div className={`flex-s ${styles.insightTitle}`}>
+                                        <h5>01</h5>
+                                        <p>Need for gamification</p>
+                                    </div>
                                 </div>
                                     <p>Initially, our studies and participant feedback revealed a clear need for gamification. Participants consistently highlighted that gamification was more important than UI aesthetics, context, and flow. The current experience lacks essential game mechanics, such as progression, decision making, and engagement features. Without these elements, the experience felt more like an interactive document than a true game, leading to reduced engagement and less effective learning outcomes.</p></div>
                                 <div className='flex-column'><div className="flex-as">
-                                    <h5 className="chips-black">2</h5> <h2 className="fw-3">Unclear target audience</h2>
+                                    <div className={`flex-s ${styles.insightTitle}`}>
+                                        <h5>02</h5>
+                                        <p>Unclear target audience</p>
+                                    </div>
 
                                 </div>
                                     <p>Additionally, we identified a significant issue with the unclear target audience. Survey responses from the System Usability Scale showed that 65% of participants needed additional support to navigate the game. The content and complexity did not suit either professionals or general users, legal professionals found it lacking depth, while general users found it overly complex. This highlights the need to clearly define the target audience and tailor the content accordingly.</p></div>
 
-                                <div className='flex-column'><div className="flex-as">
-                                    <h5 className="chips-black">3</h5> <h2 className="fw-3">Preference for new version</h2>
+                                <div className='flex-column'>
+                                    <div className="flex-as">
 
-                                </div>
+                                        <div className={`flex-s ${styles.insightTitle}`}>
+                                            <h5>03</h5>
+                                            <p>Preference for new version</p>
+                                        </div>
+                                    </div>
                                     <p>From the user experience questionnaire we got results that showed a preference for Version B, with an average score of 3.60 compared to Version A’s 3.14 where the lower scores indicated confusion. Despite this, Version B still faced challenges with usability, content clarity, and engagement, highlighting the need for a more streamlined and user friendly experience.</p></div>
                                 <hr className="hr-straight"></hr>
                                 <p>Based on our insights, a key recommendation for future work is to transform the experience into a true game by moving from Canva to a more suitable game design platform. Additionally, the content should be restructured to align with a clearly defined target audience for improved clarity. On a positive note, there is no need to redesign the game’s visuals, as our findings showed they had little impact on the user experience despite initial expectations.</p>
