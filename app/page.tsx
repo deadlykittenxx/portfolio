@@ -17,6 +17,32 @@ const HomePage: React.FC = () => {
           <hr id="casestudy"></hr>
           <h1>Case Study</h1>
           <div className={styles.casestudyItem}>
+            <Link href="/reelnotes"><img className={styles.mainImage} src="/case-study/reelnotes.webp" alt="UX Case Study" /></Link>
+            <div className={styles.casestudyDescription}>
+              <Link href="/reelnotes">
+                <div className={styles.casestudyDescriptionDetails}>
+                  <p>2024</p>
+                  <h1>Reelnotes</h1>
+                  <p>Etch analog traces onto the screen to recreate nostalgia within a modern streaming environment
+                  </p>
+
+                  <div className="chipsContainer">
+                    <h5 className="chips">Product design</h5>
+                    <h5 className="chips">Frontend development</h5>
+                    <h5 className="chips">Back development</h5>
+                  </div>
+                </div>
+              </Link>
+              <div className={styles.godetails}>
+                <Link href="/reelnotes"><h5>View details</h5></Link>
+                <Link href="/reelnotes"><img className={styles.icon} src="/pixel-arrow.svg" alt="Arrow icon" /></Link>
+              </div>
+
+
+            </div>
+          </div>
+
+          <div className={styles.casestudyItem}>
             <Link href="/ai-act"><img className={styles.mainImage} src="/case-study/ai-act.webp" alt="UX Case Study" /></Link>
             <div className={styles.casestudyDescription}>
               <Link href="/ai-act">
@@ -49,7 +75,7 @@ const HomePage: React.FC = () => {
               <Link href="/shaf">
 
                 <div className={styles.casestudyDescriptionDetails}>
-                  <p>2022</p>
+                  <p>2023</p>
                   <h1>SHAF</h1>
                   <p>A sharing economy system that can handle food waste in smart way for single-person households
                   </p>
