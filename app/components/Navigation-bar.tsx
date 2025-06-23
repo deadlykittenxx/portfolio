@@ -12,7 +12,7 @@ const Navigation: React.FC = () => {
     <div className={styles.container}>
       <nav className={`${styles.navbar} ${styles.navbarVisible}`}>
         <div className={styles.navbar_container}>
-          <Link href="/"><img src="/wing.svg" alt="Yeajin AHN Logo" className={styles.logo} /></Link>
+          <Link href="/"><img src="/wing.svg" alt="Yeajin AHN" className={styles.logo} /></Link>
           <ul>
             <li><Link href="/about">About</Link></li>
             <li><Link href="/#casestudy">Projects</Link></li>

@@ -24,7 +24,7 @@ const Navigation: React.FC = () => {
 
         <div className={`${styles.fullscreenLogo} ${scrolled ? styles.fadeOut : ''}`}>
           <p>2025<br></br></p>
-          <img className={styles.fullLogo} src="/logo.svg" alt="Yeajin AHN Logo" />
+          <img className={styles.fullLogo} src="/logo.svg" alt="Yeajin AHN" />
           <div>
             <p>Welcome to my portfolio! <br></br>I specialize in creating user-centered designs to make complex information more accessible, drawing from my background in development and design.</p>
           </div>
@@ -34,7 +34,7 @@ const Navigation: React.FC = () => {
 
         <nav className={`${styles.navbar} ${scrolled ? styles.navbarVisible : styles.navbarHidden}`}>
           <div className={styles.navbar_container}>
-            <img src="/wing.svg" alt="Yeajin AHN Logo" className={styles.logo} />
+            <img src="/wing.svg" alt="Yeajin AHN" className={styles.logo} />
             <ul>
               <li><Link href="/about">About</Link></li>
               <li><Link href="/#casestudy">Projects</Link></li>
