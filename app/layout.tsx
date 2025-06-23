@@ -12,9 +12,11 @@ interface LayoutProps {
 }
 
 const Layout: React.FC<LayoutProps> = ({ children }) => {
+
   return (
 
     <html lang="en">
+      <title>Yeajin AHN</title>
       <body>
 
         <main>{children}</main> {/* page content */}
