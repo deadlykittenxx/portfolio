@@ -23,7 +23,7 @@ const Navigation: React.FC = () => {
       <div className={styles.container}>
 
         <div className={`${styles.fullscreenLogo} ${scrolled ? styles.fadeOut : ''}`}>
-          <p>2025<br></br></p>
+          <p>2026<br></br></p>
           <img className={styles.fullLogo} src="/logo.svg" alt="Yeajin AHN" />
           <div>
             <p>Welcome to my portfolio! <br></br>I specialize in creating user-centered designs to make complex information more accessible, drawing from my background in development and design.</p>
