@@ -136,3 +136,108 @@
     font-size: 3rem;
     line-height: 3.6rem;
 }
+
+
+/* 기존 코드를 지우고 이걸로 붙여넣으세요 */
+
+.findingsGrid {
+    display: grid; /* Flex 대신 Grid 사용 */
+    grid-template-columns: repeat(3, 1fr); /* 중요: 가로를 3등분(1fr)해서 꽉 채움 */
+    gap: 24px;            /* 카드 사이 간격 */
+    width: 100%;          /* 전체 너비 사용 */
+    margin-top: 32px;
+  }
+  
+  .findingCard {
+    /* 너비(width, flex) 설정 다 지움 -> Grid가 알아서 3등분 해줌 */
+    background-color: var(--bluegray);
+    border-radius: 16px;       
+    padding: 24px;
+    display: flex;
+    flex-direction: column;
+    height: 100%; /* 카드 높이 일정하게 맞춤 */
+  }
+  
+  /* 폰트 스타일 */
+  .cardQuote {
+    font-style: italic;
+    color: #666;
+    margin: 16px 0;
+  }
+  
+  .cardTitle {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    margin-bottom: 8px;
+  }
+  
+  .cardTitle h5 {
+    background: #000;
+    color: #fff;
+    padding: 4px 8px;
+    border-radius: 4px;
+    margin: 0;
+  }
+  
+  .cardTitle p {
+    font-weight: bold;
+    margin: 0;
+  }
+  
+  /* 모바일 화면 (768px 이하)에서는 1개씩 보이게 */
+  @media (max-width: 768px) {
+    .findingsGrid {
+      grid-template-columns: 1fr; /* 1줄에 1개 */
+    }
+  }
+
+
+/* 테이블 컨테이너: 모바일에서 가로 스크롤 가능하게 설정 */
+.tableContainer {
+    width: 100%;
+    overflow-x: auto; /* 내용이 넘치면 스크롤 */
+    margin: 40px 0;
+    border-radius: 12px;
+    box-shadow: 0 0px 12px rgba(0, 0, 0, 0.05);
+    border: 1px solid #eee;
+  }
+  
+  .personaTable {
+    width: 100%;
+    font-size: 1.2rem;
+    border-collapse: collapse;
+    min-width: 800px; /* 너무 좁아지지 않도록 최소 너비 설정 */
+    text-align: left;
+  }
+  
+  .personaTable th,
+  .personaTable td {
+    padding: 16px 20px;
+    border-bottom: 1px solid #eee;
+    vertical-align: top;
+    line-height: 1.5;
+  }
+  
+  /* 헤더 스타일 */
+  .personaTable thead th {
+    background-color: #f8f9fa;
+    font-weight: 700;
+    color: #333;
+    border-bottom: 2px solid #ddd;
+  }
+  
+  /* 첫 번째 열 (카테고리) 강조 */
+  .personaTable tbody td:first-child {
+    font-weight: 600;
+    background-color: #fafafa;
+    color: #555;
+    width: 15%; /* 너비 고정 */
+  }
+  
+  /* 페르소나 열 너비 균등 분배 */
+  .personaTable th:not(:first-child),
+  .personaTable td:not(:first-child) {
+    width: 28.33%;
+  }
+  
