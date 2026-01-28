@@ -138,7 +138,6 @@
 }
 
 
-/* 기존 코드를 지우고 이걸로 붙여넣으세요 */
 
 .findingsGrid {
     display: grid; /* Flex 대신 Grid 사용 */
@@ -241,3 +240,19 @@
     width: 28.33%;
   }
   
+
+
+  .badgeBlack {
+    align-items: center;
+    font-weight: 600;
+}
+
+
+
+.badgeBlack h5 {
+    margin-right: 6px;
+    border-radius: 6px;
+    padding: 4px 6px;
+    background-color: var(--black);
+    color: var(--white);
+}

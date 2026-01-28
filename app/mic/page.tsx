@@ -4,7 +4,6 @@ import React from 'react';
 import Navigation from '../components/Navigation-bar';
 import shared from '../styles/project.module.css';
 import styles from '../styles/aiact.module.css';
-import styless from '../styles/shaf.module.css';
 import * as Icons from '../components/icons';
 import StarDivider from '../components/StarDivider';
 
@@ -312,8 +311,8 @@ const MICPage: React.FC = () => {
 
                     </div>
 
-                   {/* === User Persona Table === */}
-                   <div className={`${shared.section}`}>
+                    {/* === User Persona Table === */}
+                    {/* <div className={`${shared.section}`}>
                         <div>
                             <h4>Target Audience</h4>
                         </div>
@@ -362,7 +361,7 @@ const MICPage: React.FC = () => {
                                             <td>Scans for relevant calls, funding opportunities, and partnership formats</td>
                                             <td>Searches for domain-specific projects and technical capabilities</td>
                                         </tr>
-                                        {/* Pain Points 행에 강조 스타일 적용 */}
+                                        
                                         <tr className={shared.painPointsRow}>
                                             <td>Pain Points</td>
                                             <td>Frustrated by generic marketing language, needs specific and verifiable information</td>
@@ -373,10 +372,67 @@ const MICPage: React.FC = () => {
                                 </table>
                             </div>
                         </div>
-                    </div>
+                    </div> */}
 
 
                     <StarDivider />
+                    <div className={`${shared.section}`}>
+                        <div>
+                            <h4>Design Deliverables</h4>
+                        </div>
+
+                        <div className={`${shared.deliverablesList}`}>
+                            <div className={`${shared.deliverables}`}>
+                                <h2 className="fw-3">
+                                    Information Architecture Redesign
+                                </h2>
+                                <p>
+                                    The most fundamental distinction between the earlier and the redesigned versionslies in the organization
+                                    of information.
+                                </p>
+                                <img src="/case-study/mic/iadesign.png" alt="Information Architecture Redesign" style={{ width: '50%', display: 'block', margin: '40px auto' }} />
+
+                                <p> In the previous design, collaboration proposals were placed mid-page, leading users to come
+                                    across collaboration-related content before gaining a sufficient understanding of the institution. However, the
+                                    redesigned version adopts a five-step linear information architecture.<br></br><br></br><br></br><br></br><br></br></p>
+
+                                
+                                    <div className='flex-column'>
+                                        <div className="flex-as">
+                                        <div className={`flex-s ${shared.badgeBlack}`}>
+                                        <h5>01</h5>
+                                        <p>Establishing Identity</p>
+                                        </div>
+
+
+                                        
+                                        </div>
+                                        <div className="beforeAfterContainer">
+                                <div className="imageBeforeAfter">
+                                    <img
+                                        className="image-before slider-image" src="/case-study/aiact/before.webp" alt="Before Image"></img>
+
+                                    <img
+                                        className="image-after slider-image" src="/case-study/aiact/after.webp" alt="After Image"></img>
+
+                                </div>
+
+                                <input
+                                    type="range"
+                                    min="0"
+                                    max="100"
+                                    defaultValue="50"
+                                    aria-label="Percentage of before photo shown"
+                                    className="slider"
+                                />
+                                <div className="slider-line" aria-hidden="true"></div>
+                            </div>
+                                    </div>
+                            </div>
+
+                        </div>
+
+                    </div>
 
                 </div>
             </PageWrapper>
